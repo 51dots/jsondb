@@ -47,7 +47,7 @@ describe('cli', () => {
     )
 
     ++PORT
-    request = supertest(`http://localhost:${PORT}`)
+    request = supertest(`http://139.144.28.162:${PORT}`)
   })
 
   afterEach(() => {
