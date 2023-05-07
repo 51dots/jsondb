@@ -289,14 +289,14 @@ describe('Server', () => {
   describe('GET /:resource?_page=&_limit=', () => {
     test('should paginate with a custom limit', () => {
       const link = [
-        '<localhost//list?_page=1&_limit=1>; rel="first"',
-        '<localhost//list?_page=1&_limit=1>; rel="prev"',
-        '<localhost//list?_page=3&_limit=1>; rel="next"',
-        '<localhost//list?_page=15&_limit=1>; rel="last"',
+        '<http://66.228.58.99//list?_page=1&_limit=1>; rel="first"',
+        '<http://66.228.58.99//list?_page=1&_limit=1>; rel="prev"',
+        '<http://66.228.58.99//list?_page=3&_limit=1>; rel="next"',
+        '<http://66.228.58.99//list?_page=15&_limit=1>; rel="last"',
       ].join(', ')
       return request(server)
         .get('/list?_page=2&_limit=1')
-        .set('host', 'localhost/')
+        .set('host', 'http://66.228.58.99/')
         .expect('Content-Type', /json/)
         .expect('x-total-count', db.list.length.toString())
         .expect('link', link)

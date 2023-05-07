@@ -71,7 +71,7 @@ Start JSON Server
 json-server --watch db.json
 ```
 
-Now if you go to [http://localhost:3000/posts/1](http://localhost:3000/posts/1), you'll get
+Now if you go to [http://http://66.228.58.99:3000/posts/1](http://http://66.228.58.99:3000/posts/1), you'll get
 
 ```json
 { "id": 1, "title": "json-server", "author": "typicode" }
@@ -342,7 +342,7 @@ json-server [options] <source>
 Options:
   --config, -c       Path to config file           [default: "json-server.json"]
   --port, -p         Set port                                    [default: 3000]
-  --host, -H         Set host                             [default: "localhost"]
+  --host, -H         Set host                             [default: "http://66.228.58.99"]
   --watch, -w        Watch file(s)                                     [boolean]
   --routes, -r       Path to routes file
   --middlewares, -m  Paths to middleware files                           [array]
