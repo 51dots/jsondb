@@ -97,6 +97,6 @@
     "node": ">=12"
   },
   "jest": {
-    "testURL": "http://139.144.28.162/"
+    "testURL": "localhost/"
   }
 }
