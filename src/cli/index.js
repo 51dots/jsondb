@@ -15,7 +15,7 @@ module.exports = function () {
       host: {
         alias: 'H',
         description: 'Set host',
-        default: '139.144.28.162',
+        default: 'alysia.cloud',
       },
       watch: {
         alias: 'w',
