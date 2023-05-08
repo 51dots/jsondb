@@ -4973,6 +4973,22 @@
     ]
   },
   {
+    "name": "Egg",
+    "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
+    "image": "https://andromaverse.io/collection/ami/img/1159.gif",
+    "id": 1159,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Nest"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Egg"
+      }
+    ]
+  },
+  {
     "name": "Psychic Vixel",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/116.gif",
