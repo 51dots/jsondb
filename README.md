@@ -71,7 +71,7 @@ Start JSON Server
 json-server --watch db.json
 ```
 
-Now if you go to [http://http://66.228.58.99:3000/posts/1](http://http://66.228.58.99:3000/posts/1), you'll get
+Now if you go to [http://http://66.228.58.99:80/posts/1](http://http://66.228.58.99:80/posts/1), you'll get
 
 ```json
 { "id": 1, "title": "json-server", "author": "typicode" }
@@ -341,7 +341,7 @@ json-server [options] <source>
 
 Options:
   --config, -c       Path to config file           [default: "json-server.json"]
-  --port, -p         Set port                                    [default: 3000]
+  --port, -p         Set port                                    [default: 80]
   --host, -H         Set host                             [default: "http://66.228.58.99"]
   --watch, -w        Watch file(s)                                     [boolean]
   --routes, -r       Path to routes file
@@ -371,7 +371,7 @@ You can also set options in a `json-server.json` configuration file.
 
 ```json
 {
-  "port": 3000
+  "port": 80
 }
 ```
 
@@ -394,7 +394,7 @@ const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
 server.use(router)
-server.listen(3000, () => {
+server.listen(80, () => {
   console.log('JSON Server is running')
 })
 ```
@@ -447,7 +447,7 @@ server.use((req, res, next) => {
 
 // Use default router
 server.use(router)
-server.listen(3000, () => {
+server.listen(80, () => {
   console.log('JSON Server is running')
 })
 ```
@@ -469,7 +469,7 @@ server.use((req, res, next) => {
  }
 })
 server.use(router)
-server.listen(3000, () => {
+server.listen(80, () => {
   console.log('JSON Server is running')
 })
 ```

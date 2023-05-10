@@ -10,12 +10,12 @@ module.exports = function () {
       port: {
         alias: 'p',
         description: 'Set port',
-        default: 3000,
+        default: 80,
       },
       host: {
         alias: 'H',
         description: 'Set host',
-        default: 'localhost',
+        default: '66.228.58.99',
       },
       watch: {
         alias: 'w',
