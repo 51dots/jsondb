@@ -6,7 +6,7 @@ module.exports = {
         args: ['--watch', 'db.json', '--port', '80'],
         watch: true,
         env: {
-          HOST: '0.0.0.0', // listen on all interfaces
+          HOST: '66.228.58.99', // listen on all interfaces
           PORT: 80,
         },
       },
