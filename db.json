@@ -5167,7 +5167,7 @@
     "id": 1167,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -5183,7 +5183,7 @@
     "id": 1168,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -5199,7 +5199,7 @@
     "id": 1169,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -5243,7 +5243,7 @@
     "id": 1170,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -5259,7 +5259,7 @@
     "id": 1171,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -5275,7 +5275,7 @@
     "id": 1172,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -5291,7 +5291,7 @@
     "id": 1173,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -5307,7 +5307,7 @@
     "id": 1174,
     "attributes": [
       {
-        "trait_type": "Background",
+        "trait_type": "Area",
         "value": "Nest"
       },
       {
@@ -30980,5 +30980,4027 @@
        }
     ]
   }
- ]
+],
+ "alysians": [
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Youth",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/239.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Day"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "0",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/0",
+      "dna": "0980a0ad6e04b09d8c13675fe6cdfe0cff8c1821",
+      "edition": "Season Rhea",
+      "date": 1681368948755,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Youth",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/58.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Dweller"
+        }
+      ],
+      "id": "1",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/1",
+      "dna": "0a2c191a57f2c69632cb4e6292c0d0e14c0e4c07",
+      "edition": "Season Rhea",
+      "date": 1681369033717,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/209.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Themis"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "2",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/2",
+      "dna": "e8b1173d03e7ae3b6c0529284391d20f19c08418",
+      "edition": "Season Rhea",
+      "date": 1681368852693,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/75.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "3",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/3",
+      "dna": "48251fb79203b91eaa424d06bac136b077e7b383",
+      "edition": "Season Rhea",
+      "date": 1681368841307,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x475492F950Cb314e53a4b1DD3820766fC155d908",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/153.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Basecamp House"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "4",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/4",
+      "dna": "5ee392cfb148355c5fbf94821d2d0b87c7528bdf",
+      "edition": "Season Rhea",
+      "date": 1681369010029,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/49.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mnemsyne"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "5",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/5",
+      "dna": "0683e6a3b0b2ca2f586d53c72e5345e47aef4a4c",
+      "edition": "Season Rhea",
+      "date": 1681368853880,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/163.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Double Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "6",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/6",
+      "dna": "88a7a084d5920f762b27cf1908788e87f6411fad",
+      "edition": "Season Rhea",
+      "date": 1681368851508,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/14.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "7",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/7",
+      "dna": "c987a1d53ab45ae9bd960ab162611038a235337a",
+      "edition": "Season Rhea",
+      "date": 1681368977919,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Outcast",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/213.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Outcast"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "8",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/8",
+      "dna": "6a0b977d0807f90aa19ea952360777fead34d51e",
+      "edition": "Season Rhea",
+      "date": 1681368999681,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xD655625236F323d3c19D35f74eB5b7FCB130307a",
+    "metadata": {
+      "name": "Alysian Blacksmith",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/104.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Blacksmith"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "9",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/9",
+      "dna": "cb1c9290689bcc81763bdf821f4931e0e79d0a81",
+      "edition": "Season Rhea",
+      "date": 1681368894717,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/164.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "10",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/10",
+      "dna": "3595cf8c67262eedf6a2a7007a1e62501292e986",
+      "edition": "Season Rhea",
+      "date": 1681368808824,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/45.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "11",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/11",
+      "dna": "56da3f7b2967e270f73a3a860afa40491681bafa",
+      "edition": "Season Rhea",
+      "date": 1681369013508,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Archer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/06.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Archer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "12",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/12",
+      "dna": "be2dd7834b9cf57cd2ae900909721bf62ccdee08",
+      "edition": "Season Rhea",
+      "date": 1681369008908,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/119.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Crash"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "13",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/13",
+      "dna": "459c572a76ebbbcb189db6a3fada83d4bc192d29",
+      "edition": "Season Rhea",
+      "date": 1681368799857,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Soldier",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/33.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Soldier"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Dweller"
+        }
+      ],
+      "id": "14",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/14",
+      "dna": "d435e60c47b605726b61065e2abbedc203e76d24",
+      "edition": "Season Rhea",
+      "date": 1681369038503,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/89.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "15",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/15",
+      "dna": "720e04c344111a3e89d1a21d6e4f4bc0e045dae7",
+      "edition": "Season Rhea",
+      "date": 1681368957018,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/63.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Aphroditian Mountains"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "16",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/16",
+      "dna": "5795daa069e46a01d830944c67c13887a476acaf",
+      "edition": "Season Rhea",
+      "date": 1681368891451,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/148.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "17",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/17",
+      "dna": "2affe3efc3b99c4b840829cd20699f2d96bf93eb",
+      "edition": "Season Rhea",
+      "date": 1681368888962,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/27.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "18",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/18",
+      "dna": "096da1947c9a52dc5d1ea58793f82e2a9a63e3ef",
+      "edition": "Season Rhea",
+      "date": 1681368921646,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/11.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "19",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/19",
+      "dna": "03a67fa3b87484df2408880519d2d633485e7818",
+      "edition": "Season Rhea",
+      "date": 1681368791929,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/107.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Theia"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "20",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/20",
+      "dna": "797aca64ef93715f40aa44c0cd906d3c7e57e1a8",
+      "edition": "Season Rhea",
+      "date": 1681367579765,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/152.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Day"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "21",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/21",
+      "dna": "8c2e98145845a1a4b1e2cf957cd9f5db83969183",
+      "edition": "Season Rhea",
+      "date": 1681368789581,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Outcast",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/156.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Outcast"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "22",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/22",
+      "dna": "79318f3baf6ae957d8665786b7ed8c2e1c317f71",
+      "edition": "Season Rhea",
+      "date": 1681368820355,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/93.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Day"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "23",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/23",
+      "dna": "c61e8509dc709ddd6450ef807d6ce4e4ca2b5a72",
+      "edition": "Season Rhea",
+      "date": 1681368827412,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Kadoma",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/161.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Kadoma"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "24",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/24",
+      "dna": "80cfe02bb535b95ecdf0ec8c568fdec85e326952",
+      "edition": "Season Rhea",
+      "date": 1681368898059,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/44.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Hyperion"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "25",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/25",
+      "dna": "20297bf15c04938e6fef0bedd6a6b3ff9f206873",
+      "edition": "Season Rhea",
+      "date": 1681368870315,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/219.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "26",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/26",
+      "dna": "de7638b06bf3e72ce3ac7665301cbd2570ad3f4b",
+      "edition": "Season Rhea",
+      "date": 1681368869369,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/184.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "27",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/27",
+      "dna": "a1302279f8eb0869d3c85dc5eda0b86f74c74dfc",
+      "edition": "Season Rhea",
+      "date": 1681368899533,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless Archer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/19.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Coeus"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless Archer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "28",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/28",
+      "dna": "b3b7fc01bc36854e4dedef653916685cae614512",
+      "edition": "Season Rhea",
+      "date": 1681368901322,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Outcast",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/30.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Outcast"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "29",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/29",
+      "dna": "57f5a8341c91aa7993454ebda9b7691875764047",
+      "edition": "Season Rhea",
+      "date": 1681368904521,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Archer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/02.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Archer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "30",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/30",
+      "dna": "921d81c54eaf9356dc649b5707f33ea6d0b52505",
+      "edition": "Season Rhea",
+      "date": 1681368793038,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Youth",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/76.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "31",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/31",
+      "dna": "91aa50ecff1fae2c9d4a209ba35c530d94089a01",
+      "edition": "Season Rhea",
+      "date": 1681368972451,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/197.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mountain Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "32",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/32",
+      "dna": "0345c8fed7c7e4abea34edb00339ade80478825c",
+      "edition": "Season Rhea",
+      "date": 1681368936084,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Blacksmith",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/77.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "KnowWhere"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Blacksmith"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "33",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/33",
+      "dna": "547152ee84f42ed66e37a05589c0bd1f2e8a3de9",
+      "edition": "Season Rhea",
+      "date": 1681368939520,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xD655625236F323d3c19D35f74eB5b7FCB130307a",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/227.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "34",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/34",
+      "dna": "2a4e736eef631e51ea6f6d2f6ba7dc7a5769275a",
+      "edition": "Season Rhea",
+      "date": 1681368982813,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/67.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "KnowWhere"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "35",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/35",
+      "dna": "08e5095c92978bc9caa9474e0b40d8d18c9bf16c",
+      "edition": "Season Rhea",
+      "date": 1681368832289,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Scholar",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/178.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "KnowWhere"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Thinker"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Scholar"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Dweller"
+        }
+      ],
+      "id": "36",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/36",
+      "dna": "3d0a980f1527c63bee065c3f4ff7c88b28a51898",
+      "edition": "Season Rhea",
+      "date": 1681369031513,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Outcast",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/231.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Outcast"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "37",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/37",
+      "dna": "f4db7d6491186f2055c4374a2c45cb52d5f9903e",
+      "edition": "Season Rhea",
+      "date": 1681368790737,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/32.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Day"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "38",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/38",
+      "dna": "82c8469b99f8c8317fbed77a794e6412e651dcd4",
+      "edition": "Season Rhea",
+      "date": 1681368966293,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/207.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Aphroditian Mountains"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "39",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/39",
+      "dna": "803f0445b565986da65d00264621946f49fb5319",
+      "edition": "Season Rhea",
+      "date": 1681368973681,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/103.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "40",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/40",
+      "dna": "d7abac7780c39a2a2c6269650741319676fc6720",
+      "edition": "Season Rhea",
+      "date": 1681368911465,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/122.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "41",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/41",
+      "dna": "30a8f040bd0a1a9c53b399bc49b2886754afbadc",
+      "edition": "Season Rhea",
+      "date": 1681368821615,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Kadoma",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/193.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Crius"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Kadoma"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "42",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/42",
+      "dna": "7316ab609988b609adf00af04b5f8268504616fe",
+      "edition": "Season Rhea",
+      "date": 1681368979106,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/40.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mnemsyne"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "43",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/43",
+      "dna": "d5a6202f3f5e870695adc1f9dcbd317fd2303289",
+      "edition": "Season Rhea",
+      "date": 1681368795243,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/172.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Basecamp House"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "44",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/44",
+      "dna": "103dd6266ed4063109bef5a456a712dda756fca6",
+      "edition": "Season Rhea",
+      "date": 1681368855008,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Blacksmith",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/97.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Tethys Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Blacksmith"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "45",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/45",
+      "dna": "d5e25aaa17339a4a10a0433685dfc34e47fac63c",
+      "edition": "Season Rhea",
+      "date": 1681368816875,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/82.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Crash"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "46",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/46",
+      "dna": "12e986cb3eec5f3877f52931f388cffd48da0337",
+      "edition": "Season Rhea",
+      "date": 1681368937334,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Archer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/128.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Archer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "47",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/47",
+      "dna": "4bb99ec8c593d4d1f37a3e52cf85d1ceba144d9d",
+      "edition": "Season Rhea",
+      "date": 1681368860913,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/23.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Themis"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "48",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/48",
+      "dna": "2111760be9f8b7626f8f848042f9bf431f53cfd2",
+      "edition": "Season Rhea",
+      "date": 1681369001926,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/137.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Crash"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "49",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/49",
+      "dna": "c905f90d851930c71a05be8fae4c3c34d6d76203",
+      "edition": "Season Rhea",
+      "date": 1681369003081,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/225.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "50",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/50",
+      "dna": "75b148888f3b0fde7de58d407d0306ba1e0ab229",
+      "edition": "Season Rhea",
+      "date": 1681368962809,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Blacksmith",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/235.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Blacksmith"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "51",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/51",
+      "dna": "ecc3b2e6008dcd5e5ea346c39ef34b2145a81623",
+      "edition": "Season Rhea",
+      "date": 1681368907792,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless Archer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/233.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mountain Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless Archer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "52",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/52",
+      "dna": "9d8fac697db3be8798ed9c21d9488469b1a83b03",
+      "edition": "Season Rhea",
+      "date": 1681368981610,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/130.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mountain Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "53",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/53",
+      "dna": "36153728e04d806fc179c281b185c96b80d1ca9e",
+      "edition": "Season Rhea",
+      "date": 1681368916199,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/125.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Aphroditian Mountains"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "54",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/54",
+      "dna": "fe95594a386772ecb3fe7f06433996d9ae759525",
+      "edition": "Season Rhea",
+      "date": 1681368838886,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Soldier",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/87.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Themis"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Soldier"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Dweller"
+        }
+      ],
+      "id": "55",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/55",
+      "dna": "50abe23ac987454c3873cfea792d4821f41844b8",
+      "edition": "Season Rhea",
+      "date": 1681369024262,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Youth",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/70.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mountain Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "56",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/56",
+      "dna": "440962b298165d5d54035a80ac19971e813d4414",
+      "edition": "Season Rhea",
+      "date": 1681368863352,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/131.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Themis"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "57",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/57",
+      "dna": "29d90a0f27f01950358474edcb97f136bd548f34",
+      "edition": "Season Rhea",
+      "date": 1681368928710,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/66.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "58",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/58",
+      "dna": "e25fcf1323f5bd93b204133943bd0da7a31b48f5",
+      "edition": "Season Rhea",
+      "date": 1681368991691,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Leaf",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/238.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Tethys Day"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Leaf"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "59",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/59",
+      "dna": "b20ce6de8fd9b504b6bde097c196b26335a06fa8",
+      "edition": "Season Rhea",
+      "date": 1681368796384,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Scientist",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/165.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Thinker"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Scientist"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Dweller"
+        }
+      ],
+      "id": "60",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/60",
+      "dna": "ac858f7f3936a37c02701cdae08b4bda804cfe19",
+      "edition": "Season Rhea",
+      "date": 1681369022909,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/173.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mnemsyne"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "61",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/61",
+      "dna": "f7d907e2f5e55e71ea797bede1cc5be4a50794b2",
+      "edition": "Season Rhea",
+      "date": 1681369000846,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless Archer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/175.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Basecamp House"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless Archer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "62",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/62",
+      "dna": "0c5a2141504fc64711093c5cea59dd5c48af87a6",
+      "edition": "Season Rhea",
+      "date": 1681368943950,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/212.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Aphroditian Mountains"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "63",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/63",
+      "dna": "8ce893a4aeeaf11b3d2576a752194aee2afc8328",
+      "edition": "Season Rhea",
+      "date": 1681368846465,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/190.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "64",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/64",
+      "dna": "a70d52f97749f8797de8fcbe9cc6bea024221253",
+      "edition": "Season Rhea",
+      "date": 1681368779246,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Youth",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/154.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "65",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/65",
+      "dna": "759bced284b47db65ac39cb6e96d7c61881779ee",
+      "edition": "Season Rhea",
+      "date": 1681368919476,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Outcast",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/91.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Cloudy Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Crash"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Outcast"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "66",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/66",
+      "dna": "38577f3e40b7e67a185fd5d2321090107c7e8bfe",
+      "edition": "Season Rhea",
+      "date": 1681368887761,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xD655625236F323d3c19D35f74eB5b7FCB130307a",
+    "metadata": {
+      "name": "Alysian Blacksmith",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/127.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Hyperion"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Androman Building"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Blacksmith"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "67",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/67",
+      "dna": "9f1a60b555630352dd219baaf37489a1a7946676",
+      "edition": "Season Rhea",
+      "date": 1681368953616,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/24.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Themis"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Double Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "68",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/68",
+      "dna": "e92c170b50ac7fb220ba877bb041a49c5a5d20fa",
+      "edition": "Season Rhea",
+      "date": 1681368857644,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Warlock",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/185.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Themis"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Warlock"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Themis"
+        }
+      ],
+      "id": "69",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/69",
+      "dna": "b23bfda701c8e23f6ef05e31ac2d9b6ac11e0855",
+      "edition": "Season Rhea",
+      "date": 1681367788281,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Blacksmith",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/182.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Crash"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Blacksmith"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "70",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/70",
+      "dna": "828f4d47f61955380942460435651cd7e952c99d",
+      "edition": "Season Rhea",
+      "date": 1681368818131,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/21.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "71",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/71",
+      "dna": "284efae22f7e148246e481e2ab3fc920eec2849d",
+      "edition": "Season Rhea",
+      "date": 1681368844618,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/113.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Hume Ship"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "72",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/72",
+      "dna": "cbb140a878c6fea5c73bcb0425b96505ada3cae1",
+      "edition": "Season Rhea",
+      "date": 1681368909019,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Youth",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/39.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Aphroditian Mountains"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Youth"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "73",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/73",
+      "dna": "c7201f2793754b7bad33aa940b00e47c256b535e",
+      "edition": "Season Rhea",
+      "date": 1681369007741,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/51.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "74",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/74",
+      "dna": "98ecdc91df9fd63f4a50246c5822480c70c90051",
+      "edition": "Season Rhea",
+      "date": 1681368822846,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/07.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mnemsyne"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "75",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/75",
+      "dna": "1de686aa19394b5807013d3f1b9ed5a1ea31d7ed",
+      "edition": "Season Rhea",
+      "date": 1681368880042,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/149.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "KnowWhere"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Androman Building"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "76",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/76",
+      "dna": "0f4998637b0a96f3586b49ca0198e4e2e63d815b",
+      "edition": "Season Rhea",
+      "date": 1681368903646,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/144.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Tethys Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "77",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/77",
+      "dna": "956990afb1be9d72fba71102d79a8e8a7f193532",
+      "edition": "Season Rhea",
+      "date": 1681368803036,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/09.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Cloudy Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "78",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/78",
+      "dna": "2ab50a6b8df5b9a183cc197be0b3fa5034a50eb5",
+      "edition": "Season Rhea",
+      "date": 1681368798892,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/90.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "79",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/79",
+      "dna": "4e8fe35dca1f139301a9da4913d04dba1c53651d",
+      "edition": "Season Rhea",
+      "date": 1681368856307,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/158.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "80",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/80",
+      "dna": "95602acc4389cf1870c127453ca6d0fe9f1e7b46",
+      "edition": "Season Rhea",
+      "date": 1681368875734,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/162.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mountain Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "81",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/81",
+      "dna": "9971f8150ce41d10e712c39078aae058e3b76ee8",
+      "edition": "Season Rhea",
+      "date": 1681368826253,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0xC5EAfe1f287De83648ea4DF1EaCC0B10938E037A",
+    "metadata": {
+      "name": "Alysian Farmer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/200.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Crash"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Farmer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "82",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/82",
+      "dna": "6bb63dccc6295b3a4df159fc50c76e268f008c3a",
+      "edition": "Season Rhea",
+      "date": 1681368794303,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Wanderer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/56.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Wanderer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "83",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/83",
+      "dna": "2adad82e2ac3de72e0f93f436f4b3bd9f3e307a3",
+      "edition": "Season Rhea",
+      "date": 1681369006837,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/146.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Mountain Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "84",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/84",
+      "dna": "7303d06a43cc7ec4259adb8e90906507d95d6a75",
+      "edition": "Season Rhea",
+      "date": 1681368859978,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/232.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Basecamp House"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Shiny",
+          "value": "Shiny"
+        }
+      ],
+      "id": "85",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/85",
+      "dna": "c413ddec2d7c67007f8c222b3a8df15e87b0d124",
+      "edition": "Season Rhea",
+      "date": 1681368858725,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/118.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "86",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/86",
+      "dna": "2dbb8dfac40750fc114fd74155e0c02c34ccb524",
+      "edition": "Season Rhea",
+      "date": 1681368933517,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Faceless Archer",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/17.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Void Mountains"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Faceless Archer"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "87",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/87",
+      "dna": "32a65207fd5b67c526c556556843a11351ec2e6f",
+      "edition": "Season Rhea",
+      "date": 1681368932343,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/132.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Hume Ship"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "88",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/88",
+      "dna": "16ca2a646b1bdc8b8cb4cf6d08fc9253c7aec3f8",
+      "edition": "Season Rhea",
+      "date": 1681368862029,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Soldier",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/234.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Tethys Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Groundhouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Soldier"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Dweller"
+        }
+      ],
+      "id": "89",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/89",
+      "dna": "ad51e62252527f7ac8213e8fd43f34e0c96af1fc",
+      "edition": "Season Rhea",
+      "date": 1681369019364,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Maiden",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/143.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Themis"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Maiden"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "90",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/90",
+      "dna": "87bb942e5e6d98c9ddc83a338b36f72abdb2f909",
+      "edition": "Season Rhea",
+      "date": 1681368864527,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Sudo",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/69.gif",
+      "attributes": [
+        {
+          "trait_type": "Location",
+          "value": "Androman City Implant"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Sudo"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Dez"
+        }
+      ],
+      "id": "91",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/91",
+      "dna": "79e1a0b15040d0f242018cc221f4fb307bc663ad",
+      "edition": "Season Rhea",
+      "date": 1681369018163,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Outcast",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/28.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Double Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Outcast"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "92",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/92",
+      "dna": "fe8d95564e1ced4cda0adb366b5b98c65a673bb6",
+      "edition": "Season Rhea",
+      "date": 1681369012498,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Blacksmith",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/138.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Blacksmith"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "93",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/93",
+      "dna": "6e08b314b9209cd92b6005260d967d06ad2bfbeb",
+      "edition": "Season Rhea",
+      "date": 1681369011229,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/71.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Cloudy Night"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Basecamp House"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "94",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/94",
+      "dna": "111cf393c94173ce0e97d744c76eb162c35ed257",
+      "edition": "Season Rhea",
+      "date": 1681368836704,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/102.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treehouse"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "95",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/95",
+      "dna": "9851f0bb69bd6cffa8d10e79cfa3bbbbecdc7460",
+      "edition": "Season Rhea",
+      "date": 1681368990459,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Drunk",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/215.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Basecamp Day"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Rhea Treetops"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Drunk"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "96",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/96",
+      "dna": "9dc437e85253018cffcd7ff53f668b4f2d495a4e",
+      "edition": "Season Rhea",
+      "date": 1681368842475,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Spy",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/10.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Tethys Night"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Military"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Spy"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "97",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/97",
+      "dna": "842838b50179ef49f3112317494e29d482511cdf",
+      "edition": "Season Rhea",
+      "date": 1681368803921,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Outcast",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/18.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Rhea"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Outcast"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "98",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/98",
+      "dna": "8083d3a2eaf406454a1045ae481c0b894180c3bb",
+      "edition": "Season Rhea",
+      "date": 1681368925306,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  },
+  {
+    "owner": "0x2B83c44bcB8158b189Ff430d90AF09EBF64ba97E",
+    "metadata": {
+      "name": "Alysian Kadoma",
+      "description": "The Native Inhabitants of Alysia",
+      "image": "https://andromaverse.cloud/collections/alysians/images/95.gif",
+      "attributes": [
+        {
+          "trait_type": "Area",
+          "value": "Aphroditian Mountains"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Glow",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Class",
+          "value": "Citizen"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Kadoma"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Rhea"
+        }
+      ],
+      "id": "99",
+      "uri": "ipfs://QmY2hxt7JPVapq8hRutHdTySYF6yGqr9RTJi3KNv4m2A6e/99",
+      "dna": "bc2ce05bc8ff0f1b912b1deb6edf4993837bc331",
+      "edition": "Season Rhea",
+      "date": 1681368913745,
+      "compiler": "SudoSC0"
+    },
+    "type": "ERC721",
+    "supply": "1"
+  }
+]
 }
