@@ -1,4 +1,5 @@
-[
+{
+  "nfts": [
   {
     "name": "Dragon Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
@@ -31272,3 +31273,4 @@
     ]
   }
 ]
+}
