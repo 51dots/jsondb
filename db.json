@@ -5633,6 +5633,26 @@
     ]
   },
   {
+    "name": "Egg",
+    "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
+    "image": "https://andromaverse.io/collection/ami/img/1185.gif",
+    "id": 1185,
+    "attributes": [
+      {
+        "trait_type": "Area",
+        "value": "Nest"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Egg"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Egg"
+      }
+    ]
+  },
+  {
     "name": "Earth Smoot",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/119.gif",
@@ -31268,7 +31288,7 @@
       },
       {
         "trait_type": "Accessory",
-        "value": "Goldhalo"
+        "value": "Gold Halo"
       }
     ]
   }
