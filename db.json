@@ -4973,7 +4973,7 @@
     ]
   },
   {
-    "name": "Green Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1159.gif",
     "dna": "f17f50316c8d8825272a0a15b2fa58374112abb6",
@@ -4983,6 +4983,10 @@
       {
         "trait_type": "Area",
         "value": "Nest"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Green"
       },
       {
         "trait_type": "Type",
@@ -5028,7 +5032,7 @@
     ]
   },
   {
-    "name": "Pale Blue Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1160.gif",
     "dna": "e5e1188812f7b12d51620807f9da5657633958c2",
@@ -5038,6 +5042,10 @@
       {
         "trait_type": "Area",
         "value": "Nest"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Pale Blue"
       },
       {
         "trait_type": "Type",
@@ -5078,7 +5086,7 @@
     "compiler": "SudoSC0"
   },
   {
-    "name": "Pale Blue Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1162.gif",
     "dna": "51641ab5406287f085b9564e31aa25c99848b9eb",
@@ -5088,6 +5096,10 @@
       {
         "trait_type": "Area",
         "value": "Nest"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Pale Blue"
       },
       {
         "trait_type": "Type",
@@ -5128,7 +5140,7 @@
     "compiler": "SudoSC0"
   },
   {
-    "name": "Pale Blue Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1164.gif",
     "dna": "a8ca6fe2900b198a02a6e185ec2254a8ede0fd5c",
@@ -5138,6 +5150,10 @@
       {
         "trait_type": "Area",
         "value": "Nest"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Pale Blue"
       },
       {
         "trait_type": "Type",
@@ -5221,10 +5237,12 @@
     "compiler": "SudoSC0"
   },
   {
-    "name": "Astra",
+    "name": "Ice Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1167.gif",
+    "dna": "a5f5a54e24e5c1b0cf84faab1a86dd0bb2ed1e71",
     "id": 1167,
+    "date": 1684131910644,
     "attributes": [
       {
         "trait_type": "Area",
@@ -5232,19 +5250,30 @@
       },
       {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Ice"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
+      },
+      {
+        "trait_type": "Boost1",
+        "value": "Defense"
+      },
+      {
+        "trait_type": "Boost2",
+        "value": "Health"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
-    "name": "Astra",
+    "name": "Psychic Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1168.gif",
+    "dna": "f6d769422683e933c1a4c8fe99ddd1fd185064ee",
     "id": 1168,
+    "date": 1684133648046,
     "attributes": [
       {
         "trait_type": "Area",
@@ -5252,19 +5281,30 @@
       },
       {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Psychic"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
+      },
+      {
+        "trait_type": "Boost1",
+        "value": "Critical"
+      },
+      {
+        "trait_type": "Boost2",
+        "value": "Health"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
-    "name": "Astra",
+    "name": "Water Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1169.gif",
+    "dna": "8e9b963e323871a9c9051cfa77bc4e5cd9b21c76",
     "id": 1169,
+    "date": 1684131841600,
     "attributes": [
       {
         "trait_type": "Area",
@@ -5272,13 +5312,22 @@
       },
       {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Water"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
+      },
+      {
+        "trait_type": "Boost1",
+        "value": "Intelligence"
+      },
+      {
+        "trait_type": "Boost2",
+        "value": "Health"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
     "name": "Fairy Vixel",
@@ -5309,70 +5358,97 @@
     ]
   },
   {
-    "name": "Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1170.gif",
+    "dna": "33c4b4a4ae7f6687ef2f6e813ed788f8b799f256",
     "id": 1170,
+    "date": 1684133723206,
     "attributes": [
       {
         "trait_type": "Area",
         "value": "Nest"
       },
       {
+        "trait_type": "Coat",
+        "value": "Green"
+      },
+      {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Neutral"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
-    "name": "Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1171.gif",
+    "dna": "d434835d5aa286fb01e2fceee4a083b4c00cd57b",
     "id": 1171,
+    "date": 1684133739073,
     "attributes": [
       {
         "trait_type": "Area",
         "value": "Nest"
       },
       {
+        "trait_type": "Coat",
+        "value": "Blue"
+      },
+      {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Neutral"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
-    "name": "Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1172.gif",
+    "dna": "14697197860cb1317fc0670d570f9e60fa9f26c6",
     "id": 1172,
+    "date": 1684133715383,
     "attributes": [
       {
         "trait_type": "Area",
         "value": "Nest"
       },
       {
+        "trait_type": "Coat",
+        "value": "Green"
+      },
+      {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Neutral"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
+      },
+      {
+        "trait_type": "Boost2",
+        "value": "Health"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
-    "name": "Astra",
+    "name": "Electric Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1173.gif",
+    "dna": "259d1f2c410e0bec1034b42fe3b22871a84f28d9",
     "id": 1173,
+    "date": 1684133810202,
     "attributes": [
       {
         "trait_type": "Area",
@@ -5380,33 +5456,49 @@
       },
       {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Electric"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
+      },
+      {
+        "trait_type": "Boost2",
+        "value": "Health"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
-    "name": "Astra",
+    "name": "Neutral Astra",
     "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
     "image": "https://andromaverse.io/collection/ami/img/1174.gif",
+    "dna": "e8c7af8d7cbdfae1735192bd0ecba0e7948a7280",
     "id": 1174,
+    "date": 1684133785260,
     "attributes": [
       {
         "trait_type": "Area",
         "value": "Nest"
       },
       {
+        "trait_type": "Coat",
+        "value": "Pink"
+      },
+      {
         "trait_type": "Type",
-        "value": "Egg"
+        "value": "Neutral"
       },
       {
         "trait_type": "Species",
         "value": "Astra"
+      },
+      {
+        "trait_type": "Boost1",
+        "value": "Attack"
       }
-    ]
+    ],
+    "compiler": "SudoSC0"
   },
   {
     "name": "Egg",
