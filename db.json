@@ -5856,8 +5856,8 @@
       "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Leaf Earth Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1186.gif",
       "id": 1186,
       "attributes": [
@@ -5866,18 +5866,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Leaf"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Attack"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Fire Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1187.gif",
       "id": 1187,
       "attributes": [
@@ -5886,18 +5899,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Speed"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Fire Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1188.gif",
       "id": 1188,
       "attributes": [
@@ -5906,18 +5932,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Attack"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Speed"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Magic Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1189.gif",
       "id": 1189,
       "attributes": [
@@ -5926,14 +5965,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Magic"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
       "name": "Earth Smoot",
@@ -5960,8 +6008,8 @@
       ]
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Cloud Fairy Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1190.gif",
       "id": 1190,
       "attributes": [
@@ -5970,18 +6018,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fairy"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Leaf Earth Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1191.gif",
       "id": 1191,
       "attributes": [
@@ -5990,18 +6047,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Leaf"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Pale Blue Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1192.gif",
       "id": 1192,
       "attributes": [
@@ -6010,18 +6072,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Pale Blue"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Critical"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1193.gif",
       "id": 1193,
       "attributes": [
@@ -6030,18 +6101,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Blue Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1194.gif",
       "id": 1194,
       "attributes": [
@@ -6050,18 +6130,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Avacado Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1195.gif",
       "id": 1195,
       "attributes": [
@@ -6070,18 +6159,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Avacado"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1196.gif",
       "id": 1196,
       "attributes": [
@@ -6090,18 +6188,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1197.gif",
       "id": 1197,
       "attributes": [
@@ -6110,18 +6217,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Speed"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1198.gif",
       "id": 1198,
       "attributes": [
@@ -6130,18 +6250,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Stamina"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Stone Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1199.gif",
       "id": 1199,
       "attributes": [
@@ -6150,14 +6283,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stone"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
       "name": "Ghost Vixel",
@@ -6204,8 +6346,8 @@
       ]
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Artemis",
+      "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
       "image": "https://andromaverse.io/collection/ami/img/1200.gif",
       "id": 1200,
       "attributes": [
@@ -6214,18 +6356,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Artemis"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Avacado Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1201.gif",
       "id": 1201,
       "attributes": [
@@ -6234,18 +6385,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Avacado"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Intelligence"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Water Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1202.gif",
       "id": 1202,
       "attributes": [
@@ -6254,18 +6418,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Water"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Blue Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1203.gif",
       "id": 1203,
       "attributes": [
@@ -6274,18 +6447,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Prime",
+      "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
       "image": "https://andromaverse.io/collection/ami/img/1204.gif",
       "id": 1204,
       "attributes": [
@@ -6294,18 +6476,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Prime"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Avacado Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1205.gif",
       "id": 1205,
       "attributes": [
@@ -6314,18 +6505,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Avacado"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Accuracy"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1206.gif",
       "id": 1206,
       "attributes": [
@@ -6334,18 +6534,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Psychic Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1207.gif",
       "id": 1207,
       "attributes": [
@@ -6354,18 +6559,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Psychic"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Psychic"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Attack"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Fire Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1208.gif",
       "id": 1208,
       "attributes": [
@@ -6374,18 +6588,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Prime",
+      "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
       "image": "https://andromaverse.io/collection/ami/img/1209.gif",
       "id": 1209,
       "attributes": [
@@ -6394,14 +6613,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Prime"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
       "name": "Neutral Smoot",
@@ -6428,8 +6656,8 @@
       ]
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Ghost Astra",
+      "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
       "image": "https://andromaverse.io/collection/ami/img/1210.gif",
       "id": 1210,
       "attributes": [
@@ -6438,18 +6666,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Type",
+          "value": "Ghost"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Cloud Fairy Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1211.gif",
       "id": 1211,
       "attributes": [
@@ -6458,18 +6691,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fairy"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1212.gif",
       "id": 1212,
       "attributes": [
@@ -6478,18 +6720,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Attack"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Stone Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1213.gif",
       "id": 1213,
       "attributes": [
@@ -6498,18 +6749,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stone"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Water Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1214.gif",
       "id": 1214,
       "attributes": [
@@ -6518,18 +6782,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Water"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Leaf Earth Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1215.gif",
       "id": 1215,
       "attributes": [
@@ -6538,18 +6815,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Leaf"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Attack"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Orange Vixel",
+      "description": "Ami are the collectible creatures of the Andromaverse Multiverse",
       "image": "https://andromaverse.io/collection/ami/img/1216.gif",
       "id": 1216,
       "attributes": [
@@ -6558,18 +6848,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Type",
+          "value": "Orange"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Vixel"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Speed"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Psychic Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1217.gif",
       "id": 1217,
       "attributes": [
@@ -6578,18 +6877,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Psychic"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Psychic"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Pale Blue Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1218.gif",
       "id": 1218,
       "attributes": [
@@ -6598,18 +6906,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Pale Blue"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Silver Ice Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1219.gif",
       "id": 1219,
       "attributes": [
@@ -6618,14 +6935,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Silver"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Speed"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
       "name": "Light Prime",
@@ -6652,8 +6978,8 @@
       ]
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Green Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1220.gif",
       "id": 1220,
       "attributes": [
@@ -6662,18 +6988,27 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Speed"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Lightning Electric Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1221.gif",
       "id": 1221,
       "attributes": [
@@ -6682,18 +7017,31 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Lightning"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Electric"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Defense"
+        },
+        {
+          "trait_type": "Boost II",
+          "value": "Health"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
-      "name": "Unknown Ami Egg",
-      "description": "A strange and mysterious egg. Little is known except it contains an Ami - a collectible battle creature from the Andromaverse Multiverse",
+      "name": "Avacado Neutral Astra",
+      "description": "Astra - The Radiant Star of Destiny",
       "image": "https://andromaverse.io/collection/ami/img/1222.gif",
       "id": 1222,
       "attributes": [
@@ -6702,14 +7050,23 @@
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Unknown"
+          "trait_type": "Coat",
+          "value": "Avacado"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
-          "value": "Unknown"
+          "value": "Astra"
+        },
+        {
+          "trait_type": "Boost I",
+          "value": "Intelligence"
         }
-      ]
+      ],
+      "compiler": "SudoSC0"
     },
     {
       "name": "Unknown Ami Egg",
