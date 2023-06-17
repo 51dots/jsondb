@@ -1,30 +1,22 @@
 {
   "nfts": [
     {
-      "name": "Red Dragon Astra",
-      "description": "Astra - The Radiant Star of Destiny",
+      "name": "Alysian Elite #0",
+      "description": "Player Idendity #0 Sample - The Universe Egg",
       "image": "https://andromaverse.io/collection/ami/img/0.gif",
       "id": 0,
       "attributes": [
         {
-          "trait_type": "Area",
+          "trait_type": "Bonded Deed",
           "value": "Eden Nest"
         },
         {
-          "trait_type": "Coat",
-          "value": "Red"
+          "trait_type": "Bonded Ami",
+          "value": "Red Dragon Astra"
         },
         {
-          "trait_type": "Aspect",
-          "value": "Dragon"
-        },
-        {
-          "trait_type": "Boost II",
-          "value": "Health"
-        },
-        {
-          "trait_type": "Species",
-          "value": "Astra"
+          "trait_type": "Bonded Avatar",
+          "value": "Leuko"
         }
       ]
     },

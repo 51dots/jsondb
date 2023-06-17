@@ -1,7 +1,7 @@
 {
   "name": "json-server",
   "version": "0.17.3",
-  "description": "Fake REST API",
+  "description": "REST API",
   "main": "./lib/server/index.js",
   "bin": "./lib/cli/bin.js",
   "files": [
