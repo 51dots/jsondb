@@ -38213,16 +38213,16 @@
       ]
     }
   ],
-  "deed": [
+  "and": [
     {
-      "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/00.gif",
+      "name": "Island Stage 0 Plot",
+      "description": "Stage 0 Island Plot for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/item/land0.png",
       "id": "0",
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
+          "trait_type": "Plot",
+          "value": "Island"
         },
         {
           "trait_type": "Stage",
@@ -38231,14 +38231,14 @@
       ]
     },
     {
-      "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/01.gif",
+      "name": "Sprite",
+      "description": "Sprite for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/item/sprite.png",
       "id": 1,
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
+          "trait_type": "Sprite",
+          "value": "Soot"
         },
         {
           "trait_type": "Stage",
@@ -40008,17 +40008,13 @@
     },
     {
       "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/02.gif",
+      "description": "Candy for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/item/candy.png",
       "id": 2,
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
-        },
-        {
-          "trait_type": "Stage",
-          "value": "0"
+          "trait_type": "Item",
+          "value": "Candy"
         }
       ]
     },
@@ -41785,12 +41781,12 @@
     {
       "name": "Eden Deed",
       "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/03.gif",
+      "image": "https://andromaverse.io/collection/item/redshard.png",
       "id": 3,
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
+          "trait_type": "Item",
+          "value": "Red Shard"
         },
         {
           "trait_type": "Stage",
@@ -43561,12 +43557,12 @@
     {
       "name": "Eden Deed",
       "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/4.gif",
+      "image": "https://andromaverse.io/collection/item/blueshard.png",
       "id": 4,
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
+          "trait_type": "Item",
+          "value": "Blue Shard"
         },
         {
           "trait_type": "Stage",
@@ -45337,12 +45333,12 @@
     {
       "name": "Eden Deed",
       "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/5.gif",
+      "image": "https://andromaverse.io/collection/item/yellowshard.png",
       "id": 5,
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
+          "trait_type": "Item",
+          "value": "Yellow Shard"
         },
         {
           "trait_type": "Stage",
