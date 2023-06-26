@@ -38215,9 +38215,9 @@
   ],
   "and": [
     {
-      "name": "Island Stage 0 Plot",
+      "name": "Stage 0 Plot",
       "description": "Stage 0 Island Plot for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/item/land0.png",
+      "image": "https://andromaverse.io/collection/and/land0.png",
       "id": "0",
       "attributes": [
         {
@@ -38231,18 +38231,14 @@
       ]
     },
     {
-      "name": "Sprite",
-      "description": "Sprite for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/item/sprite.png",
-      "id": 1,
+      "name": "Fleet Rookie Ship",
+      "description": "Ship for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/and/ship.png",
+      "id": "1",
       "attributes": [
         {
-          "trait_type": "Sprite",
-          "value": "Soot"
-        },
-        {
-          "trait_type": "Stage",
-          "value": "0"
+          "trait_type": "Ship",
+          "value": "Fleet Rookie"
         }
       ]
     },
@@ -40007,14 +40003,18 @@
       ]
     },
     {
-      "name": "Eden Deed",
-      "description": "Candy for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/item/candy.png",
+      "name": "Neutral Sprite",
+      "description": "Neutral Sprite for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/and/sprite.png",
       "id": 2,
       "attributes": [
         {
-          "trait_type": "Item",
-          "value": "Candy"
+          "trait_type": "Sprite",
+          "value": "Soot"
+        },
+        {
+          "trait_type": "Aspect",
+          "value": "Neutral"
         }
       ]
     },
@@ -41779,18 +41779,14 @@
       ]
     },
     {
-      "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/item/redshard.png",
+      "name": "Red Shard",
+      "description": "Red Shard for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/and/redshard.png",
       "id": 3,
       "attributes": [
         {
           "trait_type": "Item",
           "value": "Red Shard"
-        },
-        {
-          "trait_type": "Stage",
-          "value": "0"
         }
       ]
     },
@@ -43555,18 +43551,14 @@
       ]
     },
     {
-      "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/item/blueshard.png",
+      "name": "Blue Shard",
+      "description": "Blue Shard for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/and/blueshard.png",
       "id": 4,
       "attributes": [
         {
           "trait_type": "Item",
           "value": "Blue Shard"
-        },
-        {
-          "trait_type": "Stage",
-          "value": "0"
         }
       ]
     },
@@ -45331,18 +45323,14 @@
       ]
     },
     {
-      "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/item/yellowshard.png",
+      "name": "Yellow Shard",
+      "description": "Yellow Shard for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/and/yellowshard.png",
       "id": 5,
       "attributes": [
         {
           "trait_type": "Item",
           "value": "Yellow Shard"
-        },
-        {
-          "trait_type": "Stage",
-          "value": "0"
         }
       ]
     },
@@ -47107,18 +47095,14 @@
       ]
     },
     {
-      "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/6.gif",
+      "name": "Candy",
+      "description": "Candy for the Andromaverse Multiverse",
+      "image": "https://andromaverse.io/collection/and/candy.png",
       "id": 6,
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
-        },
-        {
-          "trait_type": "Stage",
-          "value": "0"
+          "trait_type": "Item",
+          "value": "Candy"
         }
       ]
     },
@@ -48891,10 +48875,6 @@
         {
           "trait_type": "Deed",
           "value": "Eden"
-        },
-        {
-          "trait_type": "Stage",
-          "value": "0"
         }
       ]
     },
