@@ -48915,14 +48915,14 @@
       ]
     },
     {
-      "name": "Eden Deed",
-      "description": "Deeds for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/deed/img/7.gif",
+      "name": "Sequencer",
+      "description": "Let's you change things up a bit.",
+      "image": "https://andromaverse.io/collection/and/sequencer.png",
       "id": 7,
       "attributes": [
         {
-          "trait_type": "Deed",
-          "value": "Eden"
+          "trait_type": "Item",
+          "value": "Sequencer"
         }
       ]
     },
