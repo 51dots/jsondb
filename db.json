@@ -1,23 +1,35 @@
 {
   "nfts": [
     {
-      "name": "Andromaverse Elite #0",
-      "description": "Player Idendity #0 Sample - The Universe Egg",
-      "image": "https://andromaverse.io/collection/ami/img/0.gif",
+      "name": "Director Ac0",
+      "description": "Player Ac0 Idendity #0 Sample - The Universe Egg",
+      "image": "https://andromaverse.io/collection/ami/img/0.png",
       "aid": "0xc6e9bEF4658c6B4318c629B36ac153de3428A3A1",
       "id": 0,
       "attributes": [
         {
           "trait_type": "Avatar",
-          "value": "Ac0"
+          "value": "Director Ac0"
         },
         {
-          "trait_type": "Bonded Deed",
-          "value": "Eden Nest"
+          "trait_type": "Plot",
+          "value": "Island 0"
         },
         {
-          "trait_type": "Bonded Ami",
-          "value": "Dark Chaos"
+          "trait_type": "Area",
+          "value": "The Void"
+        },
+        {
+          "trait_type": "Coat",
+          "value": "Cosmic"
+        },
+        {
+          "trait_type": "Aspect",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Species",
+          "value": "Chaos"
         }
       ]
     },
@@ -19197,14 +19209,26 @@
       ]
     },
     {
-      "name": "Dragon Prime",
-      "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
+      "name": "Council Loops #35",
+      "description": "Council Sound Master Loops #35",
       "image": "https://andromaverse.io/collection/ami/img/35.gif",
       "id": 35,
       "attributes": [
         {
+          "trait_type": "Avatar",
+          "value": "Loops"
+        },
+        {
+          "trait_type": "Plot",
+          "value": "Island 0"
+        },
+        {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "The Void"
+        },
+        {
+          "trait_type": "Coat",
+          "value": "OG"
         },
         {
           "trait_type": "Aspect",
@@ -33249,14 +33273,26 @@
       ]
     },
     {
-      "name": "Water Vixel",
-      "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/ami/img/834.gif",
+      "name": "Game Dev Ullie",
+      "description": "Game Dev Ullie",
+      "image": "https://andromaverse.io/collection/ami/img/834.png",
       "id": 834,
       "attributes": [
         {
+          "trait_type": "Avatar",
+          "value": "Game Dev Ullie"
+        },
+        {
+          "trait_type": "Plot",
+          "value": "Island 0"
+        },
+        {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "The Void"
+        },
+        {
+          "trait_type": "Coat",
+          "value": "Pirate"
         },
         {
           "trait_type": "Aspect",
@@ -34409,18 +34445,30 @@
       ]
     },
     {
-      "name": "Neutral Artemis",
-      "description": "Artemis - The Whimsical Reptiliant",
-      "image": "https://andromaverse.io/collection/ami/img/875.gif",
+      "name": "Game Dev Meg",
+      "description": "Game Dev Meg",
+      "image": "https://andromaverse.io/collection/ami/img/875.png",
       "id": 875,
       "attributes": [
         {
+          "trait_type": "Avatar",
+          "value": "Game Dev Meg"
+        },
+        {
+          "trait_type": "Plot",
+          "value": "Island 0"
+        },
+        {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "The Void"
+        },
+        {
+          "trait_type": "Coat",
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
