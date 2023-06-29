@@ -71,32 +71,10 @@
     "type": "git",
     "url": "git://github.com/typicode/json-server.git"
   },
-  "keywords": [
-    "JSON",
-    "server",
-    "fake",
-    "REST",
-    "API",
-    "prototyping",
-    "mock",
-    "mocking",
-    "test",
-    "testing",
-    "rest",
-    "data",
-    "dummy",
-    "sandbox"
-  ],
-  "author": "Typicode <typicode@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/typicode/json-server/issues"
-  },
-  "homepage": "https://github.com/typicode/json-server",
   "engines": {
     "node": ">=12"
   },
   "jest": {
-    "testURL": "http://66.228.58.99/"
+    "testURL": "localhost:3000"
   }
 }
