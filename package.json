@@ -67,26 +67,6 @@
     "supertest": "^6.0.1",
     "temp-write": "^4.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/typicode/json-server.git"
-  },
-  "keywords": [
-    "JSON",
-    "server",
-    "fake",
-    "REST",
-    "API",
-    "prototyping",
-    "mock",
-    "mocking",
-    "test",
-    "testing",
-    "rest",
-    "data",
-    "dummy",
-    "sandbox"
-  ],
   "author": "Typicode <typicode@gmail.com>",
   "license": "MIT",
   "bugs": {
