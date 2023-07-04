@@ -67,16 +67,23 @@
     "supertest": "^6.0.1",
     "temp-write": "^4.0.0"
   },
+<<<<<<< HEAD
   "author": "Typicode <typicode@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/typicode/json-server/issues"
   },
   "homepage": "https://github.com/typicode/json-server",
+=======
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/typicode/json-server.git"
+  },
+>>>>>>> b29ff806249f125144ea85cb9257ffe75f899067
   "engines": {
     "node": ">=12"
   },
   "jest": {
-    "testURL": "http://66.228.58.99/"
+    "testURL": "localhost:3000"
   }
 }

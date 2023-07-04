@@ -1,4 +1,4 @@
 {
-  "host": "66.228.58.99",
-  "port": 80
+  "host": "localhost",
+  "port": 3000
 }
