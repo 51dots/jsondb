@@ -51754,7 +51754,7 @@
     {
       "name": "0 Plot",
       "description": "Stage 0 Island Plot for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/and/land0.png",
+      "image": "https://andromaverse.cloud/items/land0.png",
       "id": "0",
       "attributes": [
         {
@@ -51770,7 +51770,7 @@
     {
       "name": "Fleet Rookie Ship",
       "description": "Ship for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/and/ship.png",
+      "image": "https://andromaverse.cloud/items/ship.png",
       "id": "1",
       "attributes": [
         {
@@ -53901,7 +53901,7 @@
     {
       "name": "Neutral Sprite",
       "description": "Neutral Sprite for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/and/sprite.png",
+      "image": "https://andromaverse.cloud/items/sprite.png",
       "id": "2",
       "attributes": [
         {
@@ -54667,7 +54667,7 @@
     {
       "name": "Red Shard",
       "description": "Red Shard for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/and/redshard.png",
+      "image": "https://andromaverse.cloud/items/redshard.png",
       "id": "3",
       "attributes": [
         {
@@ -54809,7 +54809,7 @@
     {
       "name": "Blue Shard",
       "description": "Blue Shard for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/and/blueshard.png",
+      "image": "https://andromaverse.cloud/items/blueshard.png",
       "id": "4",
       "attributes": [
         {
@@ -54951,7 +54951,7 @@
     {
       "name": "Yellow Shard",
       "description": "Yellow Shard for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/and/yellowshard.png",
+      "image": "https://andromaverse.cloud/items/yellowshard.png",
       "id": "5",
       "attributes": [
         {
@@ -55093,7 +55093,7 @@
     {
       "name": "Candy",
       "description": "Candy for the Andromaverse Multiverse",
-      "image": "https://andromaverse.io/collection/and/candy.png",
+      "image": "https://andromaverse.cloud/items/candy.png",
       "id": "6",
       "attributes": [
         {
@@ -55235,7 +55235,7 @@
     {
       "name": "Ami Sequencer",
       "description": "Let's you change things up a bit.",
-      "image": "https://andromaverse.io/collection/and/sequencer.png",
+      "image": "https://andromaverse.cloud/items/sequencer.png",
       "id": "7",
       "attributes": [
         {
@@ -55377,7 +55377,7 @@
     {
       "name": "Avatar Sequencer",
       "description": "Let's you change things up a bit.",
-      "image": "https://andromaverse.io/collection/and/sequencer.png",
+      "image": "https://andromaverse.cloud/items/sequencer.png",
       "id": "8",
       "attributes": [
         {
@@ -55389,7 +55389,7 @@
     {
       "name": "Base Humanoid II",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/humanoidii.png",
+      "image": "https://andromaverse.cloud/items/humanoidii.png",
       "id": "80",
       "attributes": [
         {
@@ -55401,7 +55401,7 @@
     {
       "name": "Base Humanoid III",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/humanoidiii.png",
+      "image": "https://andromaverse.cloud/items/humanoidiii.png",
       "id": "81",
       "attributes": [
         {
@@ -55413,7 +55413,7 @@
     {
       "name": "Base Humanoid IV",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/humanoidiv.png",
+      "image": "https://andromaverse.cloud/items/humanoidiv.png",
       "id": "82",
       "attributes": [
         {
@@ -55425,7 +55425,7 @@
     {
       "name": "Base Humanoid V",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/humanoidv.png",
+      "image": "https://andromaverse.cloud/items/humanoidv.png",
       "id": "83",
       "attributes": [
         {
@@ -55437,7 +55437,7 @@
     {
       "name": "Base Humanoid VI",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/humanoidvi.png",
+      "image": "https://andromaverse.cloud/items/humanoidvi.png",
       "id": "84",
       "attributes": [
         {
@@ -55449,7 +55449,7 @@
     {
       "name": "Base Humanoid VII",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/humanoidvii.png",
+      "image": "https://andromaverse.cloud/items/humanoidvii.png",
       "id": "85",
       "attributes": [
         {
@@ -55461,7 +55461,7 @@
     {
       "name": "Base Aphroditian",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/aphroditian.png",
+      "image": "https://andromaverse.cloud/items/aphroditian.png",
       "id": "86",
       "attributes": [
         {
@@ -55473,7 +55473,7 @@
     {
       "name": "Base Alysian",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/alysian.png",
+      "image": "https://andromaverse.cloud/items/alysian.png",
       "id": "87",
       "attributes": [
         {
@@ -55485,7 +55485,7 @@
     {
       "name": "Base Gaian",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/gaian.png",
+      "image": "https://andromaverse.cloud/items/gaian.png",
       "id": "88",
       "attributes": [
         {
@@ -55497,7 +55497,7 @@
     {
       "name": "Base Chararion",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/chararion.png",
+      "image": "https://andromaverse.cloud/items/chararion.png",
       "id": "89",
       "attributes": [
         {
@@ -55522,7 +55522,7 @@
     {
       "name": "Base Enferian",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/enferian.png",
+      "image": "https://andromaverse.cloud/items/enferian.png",
       "id": "90",
       "attributes": [
         {
@@ -55534,7 +55534,7 @@
     {
       "name": "Base Lethe",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/lethe.png",
+      "image": "https://andromaverse.cloud/items/lethe.png",
       "id": "91",
       "attributes": [
         {
@@ -55546,7 +55546,7 @@
     {
       "name": "Base Neptunian",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/neptunian.png",
+      "image": "https://andromaverse.cloud/items/neptunian.png",
       "id": "92",
       "attributes": [
         {
@@ -55558,7 +55558,7 @@
     {
       "name": "Base Tenshi",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/tenshi.png",
+      "image": "https://andromaverse.cloud/items/tenshi.png",
       "id": "93",
       "attributes": [
         {
@@ -55570,7 +55570,7 @@
     {
       "name": "Base Yakashian",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/yakashian.png",
+      "image": "https://andromaverse.cloud/items/yakashian.png",
       "id": "94",
       "attributes": [
         {
@@ -55582,7 +55582,7 @@
     {
       "name": "Base Zenian",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/zenian.png",
+      "image": "https://andromaverse.cloud/items/zenian.png",
       "id": "95",
       "attributes": [
         {
@@ -55594,7 +55594,7 @@
     {
       "name": "Base Alysian II",
       "description": "Andromaverse Base Avatar",
-      "image": "https://andromaverse.cloud/item/alysianii.png",
+      "image": "https://andromaverse.cloud/items/alysianii.png",
       "id": "96",
       "attributes": [
         {
