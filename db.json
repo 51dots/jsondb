@@ -55480,14 +55480,13 @@
     },
     {
       "name": "Mnemosyne Pack Exclusive",
-      "description": "Item",
-      "image": "https://ahootdigital.com/and/soon.png",
-      "edition": "Coming Soon",
+      "description": "Mnemosyne Eyes",
+      "image": "https://ahootdigital.com/and/mnemosyneeyes.png",
       "id": "9",
       "attributes": [
         {
-          "trait_type": "Coming Soon",
-          "value": "True"
+          "trait_type": "Eyes",
+          "value": "Mnemosyne"
         }
       ]
     },
