@@ -72809,15 +72809,19 @@
       ]
     },
     {
-      "name": "Alysian Outcast",
+      "name": "Alysian Maiden",
       "description": "The Native Inhabitants of Alysia",
-      "image": "https://ahootdigital.com/alysians/85.png",
-      "edition": "Season Rhea",
+      "image": "https://ahootdigital.com/alysians/410.png",
+      "edition": "Season Coeus",
       "id": "205",
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Tethys Night"
+          "value": "Theia"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Androman City Implant"
         },
         {
           "trait_type": "Aura",
@@ -72829,11 +72833,11 @@
         },
         {
           "trait_type": "Role",
-          "value": "Outcast"
+          "value": "Maiden"
         },
         {
           "trait_type": "Lineage",
-          "value": "Rhea"
+          "value": "Coeus"
         }
       ]
     },
@@ -72968,15 +72972,15 @@
       ]
     },
     {
-      "name": "Alysian Scholar",
+      "name": "Alysian Maiden",
       "description": "The Native Inhabitants of Alysia",
-      "image": "https://ahootdigital.com/alysians/136.png",
-      "edition": "Season Rhea",
+      "image": "https://ahootdigital.com/alysians/343.png",
+      "edition": "Season Coeus",
       "id": "206",
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Tethys Day"
+          "value": "Hyperion"
         },
         {
           "trait_type": "Aura",
@@ -72984,15 +72988,15 @@
         },
         {
           "trait_type": "Class",
-          "value": "Thinker"
+          "value": "Citizen"
         },
         {
           "trait_type": "Role",
-          "value": "Scholar"
+          "value": "Maiden"
         },
         {
           "trait_type": "Lineage",
-          "value": "Tethys"
+          "value": "Coeus"
         }
       ]
     },
@@ -83513,15 +83517,15 @@
       ]
     },
     {
-      "name": "Alysian Maiden",
+      "name": "Alysian Outcast",
       "description": "The Native Inhabitants of Alysia",
-      "image": "https://ahootdigital.com/alysians/343.png",
-      "edition": "Season Coeus",
+      "image": "https://ahootdigital.com/alysians/85.png",
+      "edition": "Season Rhea",
       "id": "388",
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Hyperion"
+          "value": "Tethys Night"
         },
         {
           "trait_type": "Aura",
@@ -83533,28 +83537,24 @@
         },
         {
           "trait_type": "Role",
-          "value": "Maiden"
+          "value": "Outcast"
         },
         {
           "trait_type": "Lineage",
-          "value": "Coeus"
+          "value": "Rhea"
         }
       ]
     },
     {
-      "name": "Alysian Maiden",
+      "name": "Alysian Scholar",
       "description": "The Native Inhabitants of Alysia",
-      "image": "https://ahootdigital.com/alysians/410.png",
-      "edition": "Season Coeus",
+      "image": "https://ahootdigital.com/alysians/136.png",
+      "edition": "Season Rhea",
       "id": "389",
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Theia"
-        },
-        {
-          "trait_type": "Foreground",
-          "value": "Androman City Implant"
+          "value": "Tethys Day"
         },
         {
           "trait_type": "Aura",
@@ -83562,15 +83562,15 @@
         },
         {
           "trait_type": "Class",
-          "value": "Citizen"
+          "value": "Thinker"
         },
         {
           "trait_type": "Role",
-          "value": "Maiden"
+          "value": "Scholar"
         },
         {
           "trait_type": "Lineage",
-          "value": "Coeus"
+          "value": "Tethys"
         }
       ]
     },
