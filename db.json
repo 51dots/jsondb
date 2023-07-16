@@ -5,15 +5,11 @@
       "description": "Player Ac0 Idendity #0 Sample - The Universe Egg",
       "image": "https://ahootdigital.com/citizen/0.png",
       "aid": "0xc6e9bEF4658c6B4318c629B36ac153de3428A3A1",
-      "id": 0,
+      "id": "0",
       "attributes": [
         {
-          "trait_type": "Avatar Lineage",
-          "value": "Alysian"
-        },
-        {
           "trait_type": "Area",
-          "value": "The Void"
+          "value": "Void"
         },
         {
           "trait_type": "Aspect",
@@ -30,7 +26,7 @@
       "description": "Smoot - The Resilient Rabbit",
       "image": "https://ahootdigital.com/citizen/01.gif",
       "aid": "0x707BD116049dd369c1ECaC72651329e095614A4e",
-      "id": 1,
+      "id": "1",
       "attributes": [
         {
           "trait_type": "Area",
@@ -158,7 +154,7 @@
         },
         {
           "trait_type": "Accessory",
-          "value": "whitehalo"
+          "value": "White Halo"
         }
       ]
     },
@@ -1213,7 +1209,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -1605,7 +1601,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -3570,7 +3566,7 @@
         },
         {
           "trait_type": "Accessory",
-          "value": "Whitewings"
+          "value": "White Wings"
         }
       ]
     },
@@ -4877,7 +4873,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -6370,10 +6366,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -6396,10 +6388,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -6526,10 +6514,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -6614,10 +6598,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -6670,10 +6650,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -6700,10 +6676,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -6734,10 +6706,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -6760,10 +6728,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -6790,10 +6754,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -6816,10 +6776,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -6882,10 +6838,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -6908,10 +6860,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -6988,10 +6936,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7102,10 +7046,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7186,10 +7126,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7236,10 +7172,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7292,10 +7224,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7410,10 +7338,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7440,10 +7364,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7474,10 +7394,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7504,10 +7420,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7566,10 +7478,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7624,10 +7532,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7690,10 +7594,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7720,10 +7620,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7782,10 +7678,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7810,10 +7702,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7836,10 +7724,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7870,10 +7754,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -7892,10 +7772,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -7940,10 +7816,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8022,10 +7894,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8102,10 +7970,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8162,10 +8026,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8192,10 +8052,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8258,10 +8114,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8322,10 +8174,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8350,10 +8198,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8376,10 +8220,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8428,10 +8268,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8486,10 +8322,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8512,10 +8344,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8594,10 +8422,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8620,10 +8444,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8654,10 +8474,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8680,10 +8496,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8712,10 +8524,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -8771,11 +8579,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -8826,12 +8634,8 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Blue C"
-        },
-        {
           "trait_type": "Aspect",
-          "value": "Blue C"
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
@@ -8878,10 +8682,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8910,10 +8710,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -8940,10 +8736,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9002,10 +8794,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9024,10 +8812,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9052,10 +8836,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9086,10 +8866,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9114,10 +8890,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9140,10 +8912,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9196,10 +8964,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9262,10 +9026,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9288,10 +9048,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9374,10 +9130,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9404,10 +9156,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9460,10 +9208,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9536,10 +9280,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9618,10 +9358,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9644,10 +9380,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9702,10 +9434,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9732,10 +9460,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9792,10 +9516,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9906,10 +9626,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -9932,10 +9648,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -9964,10 +9676,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10178,10 +9886,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -10258,10 +9962,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -10284,10 +9984,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10346,10 +10042,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -10374,10 +10066,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -10400,10 +10088,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10456,10 +10140,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10522,10 +10202,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -10548,10 +10224,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10580,10 +10252,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10640,10 +10308,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10774,10 +10438,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -10804,10 +10464,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10864,10 +10520,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -10942,10 +10594,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11004,10 +10652,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -11238,10 +10882,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11286,10 +10926,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11308,10 +10944,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -11390,10 +11022,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11420,10 +11048,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -11454,10 +11078,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11476,10 +11096,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -11506,10 +11122,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11528,10 +11140,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -11640,10 +11248,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -11790,10 +11394,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11850,10 +11450,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11876,10 +11472,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -11910,10 +11502,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -11936,10 +11524,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12030,10 +11614,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12080,10 +11660,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12166,10 +11742,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12194,10 +11766,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12220,10 +11788,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12254,10 +11818,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12280,10 +11840,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12334,10 +11890,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12366,10 +11918,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12392,10 +11940,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12500,10 +12044,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12666,10 +12206,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12694,10 +12230,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12720,10 +12252,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12754,10 +12282,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12780,10 +12304,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -12834,12 +12354,8 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "FireSoot"
-        },
-        {
           "trait_type": "Aspect",
-          "value": "FireSoot"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -12894,10 +12410,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -12926,12 +12438,8 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Fire Candle"
-        },
-        {
           "trait_type": "Aspect",
-          "value": "Fire Candle"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -13010,10 +12518,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -13040,10 +12544,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -13074,10 +12574,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -13106,10 +12602,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -13136,10 +12628,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -13192,10 +12680,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -13252,10 +12736,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -13479,11 +12959,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Aspect",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
@@ -13500,10 +12980,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -13746,10 +13222,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -13772,10 +13244,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -13802,10 +13270,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -13830,10 +13294,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -13856,10 +13316,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -14022,10 +13478,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14048,10 +13500,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -14134,10 +13582,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14210,10 +13654,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14236,10 +13676,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -14356,10 +13792,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -14554,10 +13986,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14702,10 +14130,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14762,10 +14186,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14792,10 +14212,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -14850,10 +14266,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14878,10 +14290,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -14904,10 +14312,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -14960,10 +14364,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15022,10 +14422,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15054,10 +14450,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15076,10 +14468,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15160,10 +14548,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15302,10 +14686,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15328,10 +14708,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15360,10 +14736,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15476,10 +14848,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15598,10 +14966,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15626,10 +14990,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15648,10 +15008,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15674,10 +15030,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15696,10 +15048,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -15838,10 +15186,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15898,10 +15242,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15930,10 +15270,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -15960,10 +15296,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16022,10 +15354,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16054,10 +15382,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16080,10 +15404,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16194,10 +15514,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16220,10 +15536,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16310,10 +15622,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16336,10 +15644,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16366,10 +15670,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16392,10 +15692,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16444,10 +15740,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16539,11 +15831,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -16602,10 +15894,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16662,10 +15950,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16688,10 +15972,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16720,10 +16000,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16786,10 +16062,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16850,10 +16122,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16904,10 +16172,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -16966,10 +16230,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -16992,10 +16252,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -17022,10 +16278,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17048,10 +16300,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -17106,10 +16354,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17138,10 +16382,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17164,10 +16404,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -17196,10 +16432,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -17278,10 +16510,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17328,10 +16556,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -17446,10 +16670,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17510,10 +16730,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17572,10 +16788,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -17826,10 +17038,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17878,10 +17086,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17900,10 +17104,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -17934,10 +17134,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17962,10 +17158,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -17988,10 +17180,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18040,10 +17228,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18102,10 +17286,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -18156,10 +17336,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18242,10 +17418,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -18298,10 +17470,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -18350,10 +17518,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -18376,10 +17540,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18436,10 +17596,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18526,10 +17682,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -18608,10 +17760,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18718,10 +17866,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -18802,10 +17946,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -18828,10 +17968,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18859,11 +17995,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -18912,10 +18048,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -18998,10 +18130,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -19028,10 +18156,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19084,10 +18208,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19146,10 +18266,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -19198,10 +18314,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -19227,11 +18339,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Aspect",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
@@ -19252,10 +18364,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19310,10 +18418,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -19336,10 +18440,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19366,10 +18466,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -19392,10 +18488,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19422,10 +18514,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -19448,10 +18536,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19507,11 +18591,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Aspect",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
@@ -19536,10 +18620,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19790,10 +18870,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -19844,10 +18920,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -19982,10 +19054,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -20032,10 +19100,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20126,10 +19190,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -20180,10 +19240,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20238,12 +19294,8 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Blue C"
-        },
-        {
           "trait_type": "Aspect",
-          "value": "Blue C"
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
@@ -20260,10 +19312,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20288,10 +19336,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20350,10 +19394,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -20406,10 +19446,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -20428,10 +19464,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20456,10 +19488,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20567,11 +19595,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Aspect",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
@@ -20592,10 +19620,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20702,10 +19726,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -20792,10 +19812,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -20902,10 +19918,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -20960,10 +19972,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -21050,10 +20058,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -21080,10 +20084,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -21162,10 +20162,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -21223,11 +20219,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Aspect",
-          "value": "Earth M"
+          "value": "Earth"
         },
         {
           "trait_type": "Species",
@@ -21244,10 +20240,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -21302,12 +20294,8 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Blue C"
-        },
-        {
           "trait_type": "Aspect",
-          "value": "Blue C"
+          "value": "Neutral"
         },
         {
           "trait_type": "Species",
@@ -21399,11 +20387,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -21428,10 +20416,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -21507,11 +20491,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -21592,10 +20576,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -21714,10 +20694,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -21794,10 +20770,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -21824,10 +20796,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -21998,10 +20966,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22166,10 +21130,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22226,10 +21186,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22255,11 +21211,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -22314,10 +21270,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22342,10 +21294,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22368,10 +21316,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -22454,10 +21398,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22538,10 +21478,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22602,10 +21538,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22662,10 +21594,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22688,10 +21616,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -22766,10 +21690,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22826,10 +21746,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -22880,10 +21796,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -22943,11 +21855,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -23000,10 +21912,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -23082,10 +21990,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23142,10 +22046,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23198,10 +22098,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23220,10 +22116,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -23248,10 +22140,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -23342,10 +22230,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23430,10 +22314,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23456,10 +22336,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -23610,10 +22486,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23638,10 +22510,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23664,10 +22532,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -23782,10 +22646,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -23832,10 +22692,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24026,10 +22882,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24080,10 +22932,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24162,10 +23010,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24184,10 +23028,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24270,10 +23110,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24314,10 +23150,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24340,10 +23172,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24402,10 +23230,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24428,10 +23252,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24490,10 +23310,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24522,10 +23338,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24548,10 +23360,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24580,10 +23388,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24642,10 +23446,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -24672,10 +23472,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24732,10 +23528,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24823,11 +23615,11 @@
         },
         {
           "trait_type": "Coat",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire C"
+          "value": "Fire"
         },
         {
           "trait_type": "Species",
@@ -24848,10 +23640,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -24912,10 +23700,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -25002,10 +23786,6 @@
           "value": "Void"
         },
         {
-          "trait_type": "Coat",
-          "value": "Neutral"
-        },
-        {
           "trait_type": "Aspect",
           "value": "Neutral"
         },
@@ -25028,10 +23808,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -25112,10 +23888,6 @@
         {
           "trait_type": "Area",
           "value": "Void"
-        },
-        {
-          "trait_type": "Coat",
-          "value": "Neutral"
         },
         {
           "trait_type": "Aspect",
@@ -25824,7 +24596,7 @@
       "description": "Artemis - The Whimsical Reptiliant",
       "image": "https://ahootdigital.com/citizen/02.gif",
       "aid": "0x8059B8e615e5149031B8AF4A304f0550540bF7c9",
-      "id": 2,
+      "id": "2",
       "attributes": [
         {
           "trait_type": "Area",
@@ -30065,7 +28837,7 @@
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "The Void"
+          "value": "Void"
         },
         {
           "trait_type": "Coat",
@@ -38338,7 +37110,7 @@
       ]
     },
     {
-      "name": "Neutral Smoot",
+      "name": "Dragon Smoot",
       "description": "Smoot - The Resilient Rabbit",
       "image": "https://ahootdigital.com/citizen/642.gif",
       "id": 642,
@@ -38349,7 +37121,7 @@
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Shiny",
@@ -43789,7 +42561,7 @@
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "The Void"
+          "value": "Void"
         },
         {
           "trait_type": "Coat",
@@ -44921,7 +43693,7 @@
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "The Void"
+          "value": "Void"
         },
         {
           "trait_type": "Coat",
@@ -45728,7 +44500,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -46036,7 +44808,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -46368,7 +45140,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -47156,7 +45928,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -47405,7 +46177,7 @@
         },
         {
           "trait_type": "Accessory",
-          "value": "whitehalo"
+          "value": "White Halo"
         }
       ]
     },
@@ -47761,7 +46533,7 @@
         },
         {
           "trait_type": "Accessory",
-          "value": "whitehalo"
+          "value": "White Halo"
         }
       ]
     },
@@ -47976,7 +46748,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
@@ -48004,7 +46776,7 @@
           "value": "Pixel"
         },
         {
-          "trait_type": "Accessory",
+          "trait_type": "Shiny",
           "value": "Shiny"
         }
       ]
