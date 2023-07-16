@@ -5,7 +5,7 @@
       "description": "Player Ac0 Idendity #0 Sample - The Universe Egg",
       "image": "https://ahootdigital.com/citizen/0.png",
       "aid": "0xc6e9bEF4658c6B4318c629B36ac153de3428A3A1",
-      "id": "0",
+      "id": 0,
       "attributes": [
         {
           "trait_type": "Area",
@@ -26,7 +26,7 @@
       "description": "Halo Smoot - The Resilient Rabbit",
       "image": "https://ahootdigital.com/citizen/01.gif",
       "aid": "0x707BD116049dd369c1ECaC72651329e095614A4e",
-      "id": "1",
+      "id": 1,
       "attributes": [
         {
           "trait_type": "Area",
@@ -4985,11 +4985,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Psychic Vixel",
@@ -5041,8 +5040,7 @@
           "trait_type": "Species",
           "value": "Astra"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Water Astra",
@@ -5067,11 +5065,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Pale Blue Neutral Astra",
@@ -5095,8 +5092,7 @@
           "trait_type": "Species",
           "value": "Astra"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Stone Astra",
@@ -5121,11 +5117,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Pale Blue Neutral Astra",
@@ -5154,11 +5149,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Magic Astra",
@@ -5187,11 +5181,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Leaf Earth Astra",
@@ -5220,11 +5213,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Silver Ice Astra",
@@ -5253,11 +5245,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Psychic Astra",
@@ -5286,11 +5277,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Water Astra",
@@ -5319,11 +5309,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Fairy Vixel",
@@ -5375,8 +5364,7 @@
           "trait_type": "Species",
           "value": "Astra"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Blue Neutral Astra",
@@ -5400,8 +5388,7 @@
           "trait_type": "Species",
           "value": "Astra"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Green Neutral Astra",
@@ -5426,11 +5413,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Lightning Electric Astra",
@@ -5455,11 +5441,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Pink Neutral Astra",
@@ -5487,8 +5472,7 @@
           "trait_type": "Boost I",
           "value": "Attack"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Blue Neutral Astra",
@@ -5512,8 +5496,7 @@
           "trait_type": "Species",
           "value": "Astra"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Avacado Neutral Astra",
@@ -5538,11 +5521,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Pale Blue Neutral Astra",
@@ -5571,11 +5553,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Water Astra",
@@ -5600,11 +5581,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Pink Neutral Astra",
@@ -5628,8 +5608,7 @@
           "trait_type": "Species",
           "value": "Astra"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Neutral Vixel",
@@ -5681,8 +5660,7 @@
           "trait_type": "Boost I",
           "value": "Attack"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Avacado Neutral Astra",
@@ -5707,11 +5685,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Psychic Astra",
@@ -5743,8 +5720,7 @@
           "trait_type": "Boost II",
           "value": "Speed"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Green Neutral Astra",
@@ -5769,11 +5745,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Water Astra",
@@ -5798,11 +5773,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Avacado Neutral Astra",
@@ -5831,11 +5805,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Leaf Earth Astra",
@@ -5864,11 +5837,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Fire Astra",
@@ -5900,8 +5872,7 @@
           "trait_type": "Boost II",
           "value": "Speed"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Fire Astra",
@@ -5933,8 +5904,7 @@
           "trait_type": "Boost II",
           "value": "Speed"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Magic Astra",
@@ -5959,11 +5929,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Earth Smoot",
@@ -6012,11 +5981,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Leaf Earth Astra",
@@ -6040,8 +6008,7 @@
           "trait_type": "Species",
           "value": "Astra"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Pale Blue Neutral Astra",
@@ -6069,8 +6036,7 @@
           "trait_type": "Boost I",
           "value": "Critical"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Green Neutral Astra",
@@ -6095,11 +6061,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Blue Neutral Astra",
@@ -6124,11 +6089,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Avacado Neutral Astra",
@@ -6156,8 +6120,7 @@
           "trait_type": "Boost I",
           "value": "Defense"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Green Neutral Astra",
@@ -6182,11 +6145,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Green Neutral Astra",
@@ -6218,8 +6180,7 @@
           "trait_type": "Boost II",
           "value": "Speed"
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Green Neutral Astra",
@@ -6248,11 +6209,10 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Stone Astra",
@@ -6277,11 +6237,10 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
         }
-      ],
-      "compiler": "SudoSC0"
+      ]
     },
     {
       "name": "Ghost Vixel",
@@ -6350,8 +6309,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6374,8 +6337,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6402,8 +6369,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6436,6 +6407,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6466,8 +6441,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6498,8 +6477,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6526,8 +6509,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6558,8 +6545,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6584,6 +6575,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6610,8 +6605,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6662,8 +6661,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6690,8 +6693,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6714,8 +6721,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6738,8 +6749,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6762,8 +6777,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6790,8 +6809,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6822,8 +6845,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6846,8 +6873,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6876,6 +6907,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6900,6 +6935,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6948,6 +6987,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -6974,8 +7017,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7004,6 +7051,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7032,6 +7083,10 @@
         {
           "trait_type": "Boost I",
           "value": "Intelligence"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7054,8 +7109,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7082,8 +7141,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7110,8 +7173,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7136,6 +7203,10 @@
         {
           "trait_type": "Boost I",
           "value": "Intelligence"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7160,6 +7231,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7182,8 +7257,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7236,6 +7315,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7260,6 +7343,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7290,8 +7377,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7324,6 +7415,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7350,8 +7445,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7378,8 +7477,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7406,8 +7509,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7434,8 +7541,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7464,6 +7575,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7490,8 +7605,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7546,8 +7665,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7578,8 +7701,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7606,8 +7733,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7634,8 +7765,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7662,8 +7797,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7688,6 +7827,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7710,8 +7853,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7738,8 +7885,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7760,6 +7911,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7782,8 +7937,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7826,8 +7985,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7854,8 +8017,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7880,6 +8047,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7904,6 +8075,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7928,6 +8103,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7956,6 +8135,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -7980,6 +8163,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8010,8 +8197,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8038,8 +8229,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8066,8 +8261,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8126,8 +8325,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8158,8 +8361,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8182,8 +8389,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8206,8 +8417,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8228,6 +8443,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8256,6 +8475,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8278,8 +8501,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8308,6 +8535,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8332,6 +8563,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8354,8 +8589,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8408,6 +8647,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8430,8 +8673,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8458,8 +8705,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8484,6 +8735,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8510,8 +8765,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8534,8 +8793,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8562,8 +8825,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8590,8 +8857,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8620,6 +8891,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8644,6 +8919,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8694,8 +8973,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8722,8 +9005,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8750,8 +9037,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8778,8 +9069,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8800,6 +9095,10 @@
         {
           "trait_type": "Species",
           "value": "Smoot"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8822,8 +9121,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8850,8 +9153,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8874,8 +9181,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8898,8 +9209,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8926,8 +9241,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -8978,8 +9297,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9010,8 +9333,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9034,8 +9361,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9058,8 +9389,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9090,8 +9425,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9116,6 +9455,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9142,8 +9485,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9168,6 +9515,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9196,6 +9547,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9216,6 +9571,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9290,8 +9649,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9316,6 +9679,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9342,8 +9709,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9368,6 +9739,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9390,8 +9765,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9418,8 +9797,12 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9446,8 +9829,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9470,8 +9857,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9502,8 +9893,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9526,8 +9921,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9578,8 +9977,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9610,8 +10013,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9636,6 +10043,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9662,8 +10073,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9684,6 +10099,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9710,8 +10129,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9738,8 +10161,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9770,8 +10197,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9796,6 +10227,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9822,8 +10257,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9872,6 +10311,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9892,6 +10335,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9916,6 +10363,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9946,8 +10397,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9970,8 +10425,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -9994,8 +10453,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10026,8 +10489,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10052,6 +10519,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10074,8 +10545,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10098,8 +10573,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10154,8 +10633,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10186,8 +10669,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10212,6 +10699,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10238,8 +10729,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10266,8 +10761,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10296,6 +10795,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10320,6 +10823,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10346,8 +10853,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10372,6 +10883,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10398,8 +10913,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10450,8 +10969,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10478,8 +11001,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10506,8 +11033,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10528,6 +11059,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10554,8 +11089,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10580,6 +11119,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10606,8 +11149,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10638,8 +11185,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10662,8 +11213,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10694,8 +11249,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10748,6 +11307,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10778,8 +11341,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10808,6 +11375,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10834,8 +11405,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10866,8 +11441,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10888,6 +11467,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10912,6 +11495,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10932,6 +11519,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10958,8 +11549,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -10986,8 +11581,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11034,8 +11633,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11062,8 +11665,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11084,6 +11691,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11108,6 +11719,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11128,6 +11743,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11154,8 +11773,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11182,8 +11805,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11208,6 +11835,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11234,8 +11865,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11260,6 +11895,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11318,8 +11957,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11346,8 +11989,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11378,8 +12025,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11404,6 +12055,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11434,8 +12089,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11458,8 +12117,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11486,8 +12149,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11510,8 +12177,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11538,8 +12209,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11570,8 +12245,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11620,6 +12299,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11646,8 +12329,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11672,6 +12359,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11702,8 +12393,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11728,6 +12423,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11752,6 +12451,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11774,8 +12477,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11802,8 +12509,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11826,8 +12537,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11852,6 +12567,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11902,8 +12621,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11926,8 +12649,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11948,6 +12675,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -11976,6 +12707,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12004,6 +12739,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12030,8 +12769,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12052,6 +12795,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12082,8 +12829,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12112,6 +12863,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12136,6 +12891,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12216,6 +12975,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12240,6 +13003,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12266,8 +13033,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12290,8 +13061,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12316,6 +13091,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12340,6 +13119,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12366,8 +13149,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12396,6 +13183,10 @@
         {
           "trait_type": "Boost I",
           "value": "Intelligence"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12422,8 +13213,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12444,6 +13239,10 @@
         {
           "trait_type": "Species",
           "value": "Artemis"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12502,8 +13301,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12530,8 +13333,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12558,8 +13365,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12586,8 +13397,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12614,8 +13429,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12640,6 +13459,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12668,6 +13491,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12696,6 +13523,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12722,8 +13553,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12746,8 +13581,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12800,6 +13639,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12828,6 +13671,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12856,6 +13703,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12882,8 +13733,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12910,8 +13765,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12942,8 +13801,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12968,6 +13831,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -12994,8 +13861,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13024,6 +13895,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13052,6 +13927,10 @@
         {
           "trait_type": "Boost I",
           "value": "Intelligence"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13102,8 +13981,12 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13126,8 +14009,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13152,6 +14039,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13178,8 +14069,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13206,8 +14101,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13232,6 +14131,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13254,8 +14157,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13278,8 +14185,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13302,8 +14213,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13330,8 +14245,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13380,6 +14299,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13406,8 +14329,12 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13434,8 +14361,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13464,6 +14395,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13486,8 +14421,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13508,6 +14447,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13538,8 +14481,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13568,6 +14515,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13590,8 +14541,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13620,6 +14575,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13664,6 +14623,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13686,8 +14649,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13718,8 +14685,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13750,8 +14721,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13778,8 +14753,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13802,8 +14781,12 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13834,8 +14817,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13862,8 +14849,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13890,8 +14881,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13914,8 +14909,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13972,6 +14971,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -13994,8 +14997,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14028,6 +15035,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14056,6 +15067,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14082,8 +15097,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14114,8 +15133,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14138,8 +15161,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14170,8 +15197,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14200,6 +15231,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14222,8 +15257,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14274,8 +15313,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14300,6 +15343,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14322,8 +15369,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14350,8 +15401,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14378,8 +15433,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14408,6 +15467,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14434,8 +15497,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14456,6 +15523,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14480,6 +15551,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14512,6 +15587,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14560,6 +15639,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14586,8 +15669,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14614,8 +15701,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14642,8 +15733,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14672,6 +15767,10 @@
         {
           "trait_type": "Boost I",
           "value": "Intelligence"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14694,8 +15793,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14722,8 +15825,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14750,8 +15857,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14778,8 +15889,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14810,8 +15925,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14862,8 +15981,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14894,8 +16017,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14924,6 +16051,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14952,6 +16083,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14976,6 +16111,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -14996,6 +16135,10 @@
         {
           "trait_type": "Species",
           "value": "Prime"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15016,6 +16159,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15036,6 +16183,10 @@
         {
           "trait_type": "Species",
           "value": "Smoot"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15058,8 +16209,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15092,6 +16247,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15170,8 +16329,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15198,8 +16361,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15226,8 +16393,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15254,8 +16425,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15282,8 +16457,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15310,8 +16489,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15340,6 +16523,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15366,8 +16553,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15390,8 +16581,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15414,8 +16609,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15470,8 +16669,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15498,8 +16701,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15522,8 +16729,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15550,8 +16761,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15578,8 +16793,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15608,6 +16827,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15630,8 +16853,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15654,8 +16881,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15678,8 +16909,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15702,8 +16937,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15754,8 +16993,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15784,6 +17027,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15816,6 +17063,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15846,8 +17097,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15878,8 +17133,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15906,8 +17165,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15936,6 +17199,10 @@
         {
           "trait_type": "Boost I",
           "value": "Intelligence"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15958,8 +17225,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -15986,8 +17257,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16014,8 +17289,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16074,8 +17353,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16106,8 +17389,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16130,8 +17417,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16158,8 +17449,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16188,6 +17483,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16214,8 +17513,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16240,6 +17543,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16262,8 +17569,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16286,8 +17597,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16310,8 +17625,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16366,8 +17685,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16392,6 +17715,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16418,8 +17745,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16442,8 +17773,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16468,6 +17803,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16496,6 +17835,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16520,6 +17863,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16544,6 +17891,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16570,8 +17921,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16604,6 +17959,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16656,6 +18015,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16682,8 +18045,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16716,6 +18083,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16742,8 +18113,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16774,8 +18149,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16796,6 +18175,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16826,8 +18209,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16854,8 +18241,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16884,6 +18275,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16912,6 +18307,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16966,8 +18365,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -16992,6 +18395,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17024,6 +18431,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17044,6 +18455,10 @@
         {
           "trait_type": "Species",
           "value": "Smoot"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17070,8 +18485,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17092,6 +18511,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17118,8 +18541,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17144,6 +18571,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17166,8 +18597,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17188,6 +18623,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17244,6 +18683,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17270,8 +18713,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17294,8 +18741,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17324,6 +18775,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17344,6 +18799,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17370,8 +18829,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17402,8 +18865,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17426,8 +18893,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17456,6 +18927,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17478,8 +18953,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17526,8 +19005,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17554,8 +19037,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17582,8 +19069,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17606,8 +19097,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17636,6 +19131,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17666,8 +19165,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17692,6 +19195,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17720,6 +19227,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17746,8 +19257,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17770,8 +19285,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17826,8 +19345,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17852,6 +19375,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17876,6 +19403,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17904,6 +19435,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17930,8 +19465,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17954,8 +19493,12 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -17978,8 +19521,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18008,6 +19555,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18034,8 +19585,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18060,6 +19615,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18142,8 +19701,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18166,8 +19729,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18194,8 +19761,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18220,6 +19791,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18250,8 +19825,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18272,6 +19851,10 @@
         {
           "trait_type": "Species",
           "value": "Vixel"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18298,8 +19881,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18324,6 +19911,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18350,8 +19941,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18374,8 +19969,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18428,6 +20027,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18452,6 +20055,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18476,6 +20083,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18500,6 +20111,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18522,8 +20137,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18544,6 +20163,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18574,8 +20197,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18606,8 +20233,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18632,6 +20263,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18656,6 +20291,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18710,8 +20349,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18744,6 +20387,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18770,8 +20417,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18802,8 +20453,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18830,8 +20485,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18856,6 +20515,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18882,8 +20545,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18908,6 +20575,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18934,8 +20605,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -18962,8 +20637,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19016,6 +20695,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19040,6 +20723,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19060,6 +20747,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19086,8 +20777,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19110,8 +20805,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19142,8 +20841,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19174,8 +20877,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19198,8 +20905,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19226,8 +20937,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19254,8 +20969,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19300,6 +21019,10 @@
         {
           "trait_type": "Species",
           "value": "Artemis"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19322,8 +21045,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19348,6 +21075,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19378,8 +21109,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19402,8 +21137,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19430,8 +21169,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19452,6 +21195,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19476,6 +21223,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19500,6 +21251,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19528,6 +21283,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19580,6 +21339,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19606,8 +21369,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19628,6 +21395,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19652,6 +21423,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19682,8 +21457,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19712,6 +21491,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19740,6 +21523,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19770,8 +21557,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19798,8 +21589,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19820,6 +21615,10 @@
         {
           "trait_type": "Species",
           "value": "Vixel"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19870,8 +21669,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19904,6 +21707,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19926,8 +21733,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19958,8 +21769,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -19986,8 +21801,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20016,6 +21835,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20042,8 +21865,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20070,8 +21897,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20094,8 +21925,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20120,6 +21955,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20174,8 +22013,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20202,8 +22045,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20228,6 +22075,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20254,8 +22105,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20280,6 +22135,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20306,8 +22165,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20338,8 +22201,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20370,8 +22237,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20402,8 +22273,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20428,6 +22303,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20476,6 +22355,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20506,8 +22389,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20532,6 +22419,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20562,8 +22453,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20586,8 +22481,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20618,8 +22517,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20646,8 +22549,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20678,8 +22585,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20702,8 +22613,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20730,8 +22645,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20782,8 +22701,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20806,8 +22729,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20834,8 +22761,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20862,8 +22793,12 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20890,8 +22825,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20918,8 +22857,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20952,6 +22895,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -20972,6 +22919,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21002,8 +22953,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21030,8 +22985,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21116,6 +23075,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21142,8 +23105,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21170,8 +23137,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21196,6 +23167,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21222,8 +23197,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21254,8 +23233,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21278,8 +23261,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21304,6 +23291,10 @@
         {
           "trait_type": "Boost I",
           "value": "Critical"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21330,8 +23321,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21364,6 +23359,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21406,8 +23405,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21434,8 +23437,12 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21462,8 +23469,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21490,8 +23501,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21522,8 +23537,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21550,8 +23569,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21580,6 +23603,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21602,8 +23629,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21624,6 +23655,10 @@
         {
           "trait_type": "Species",
           "value": "Vixel"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21650,8 +23685,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21698,8 +23737,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21730,8 +23773,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21754,8 +23801,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21782,8 +23833,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21806,8 +23861,12 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21838,8 +23897,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21866,8 +23929,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21898,8 +23965,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21924,6 +23995,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -21948,6 +24023,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22002,8 +24081,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22032,6 +24115,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22052,6 +24139,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22082,8 +24173,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22104,6 +24199,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22126,8 +24225,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22156,6 +24259,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22186,8 +24293,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22216,6 +24327,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22242,8 +24357,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22298,8 +24417,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22324,6 +24447,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22346,8 +24473,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22380,6 +24511,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22406,8 +24541,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22438,8 +24577,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22470,8 +24613,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22494,8 +24641,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22518,8 +24669,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22544,6 +24699,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22602,8 +24761,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22632,6 +24795,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22652,6 +24819,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22680,6 +24851,10 @@
         {
           "trait_type": "Boost I",
           "value": "Intelligence"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22706,8 +24881,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22734,8 +24913,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22762,8 +24945,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22790,8 +24977,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22816,6 +25007,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22842,8 +25037,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22892,6 +25091,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22918,8 +25121,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22940,6 +25147,10 @@
         {
           "trait_type": "Species",
           "value": "Smoot"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22970,8 +25181,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -22996,6 +25211,10 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23016,6 +25235,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23040,6 +25263,10 @@
         {
           "trait_type": "Boost I",
           "value": "Stamina"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23062,8 +25289,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23094,8 +25325,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23116,6 +25351,10 @@
         {
           "trait_type": "Species",
           "value": "Astra"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23160,6 +25399,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23186,8 +25429,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23216,6 +25463,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23238,8 +25489,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23262,8 +25517,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23294,8 +25553,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23322,8 +25585,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23346,8 +25613,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23374,8 +25645,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23402,8 +25677,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23458,8 +25737,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23486,8 +25769,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23514,8 +25801,12 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23538,8 +25829,12 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23570,8 +25865,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23598,8 +25897,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23626,8 +25929,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23654,8 +25961,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23686,8 +25997,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23712,6 +26027,10 @@
         {
           "trait_type": "Boost I",
           "value": "Attack"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23770,8 +26089,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23796,6 +26119,10 @@
         {
           "trait_type": "Boost II",
           "value": "Speed"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23820,6 +26147,10 @@
         {
           "trait_type": "Boost I",
           "value": "Defense"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23848,6 +26179,10 @@
         {
           "trait_type": "Boost I",
           "value": "Accuracy"
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23874,8 +26209,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23898,8 +26237,12 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23926,8 +26269,12 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23958,8 +26305,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -23990,8 +26341,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -24022,8 +26377,12 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Health"
+          "trait_type": "Health",
+          "value": 1
+        },
+        {
+          "trait_type": "Reward Rate",
+          "value": 1
         }
       ]
     },
@@ -24596,7 +26955,7 @@
       "description": "Artemis - The Whimsical Reptiliant",
       "image": "https://ahootdigital.com/citizen/02.gif",
       "aid": "0x8059B8e615e5149031B8AF4A304f0550540bF7c9",
-      "id": "2",
+      "id": 2,
       "attributes": [
         {
           "trait_type": "Area",
@@ -27397,7 +29756,7 @@
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
       "image": "https://ahootdigital.com/citizen/03.gif",
       "aid": "0x7088A95a57f9cf4C6b8966a3D3544016d12AFf6E",
-      "id": "3",
+      "id": 3,
       "attributes": [
         {
           "trait_type": "Area",
@@ -33081,7 +35440,7 @@
       "name": "Teal Neutral Smoot",
       "description": "Smoot - The Resilient Rabbit",
       "image": "https://ahootdigital.com/citizen/5.gif",
-      "id": "5",
+      "id": 5,
       "attributes": [
         {
           "trait_type": "Area",
@@ -35853,7 +38212,7 @@
       "name": "Neutral Artemis",
       "description": "Artemis - The Whimsical Reptiliant",
       "image": "https://ahootdigital.com/citizen/6.gif",
-      "id": "6",
+      "id": 6,
       "attributes": [
         {
           "trait_type": "Area",
