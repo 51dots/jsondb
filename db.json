@@ -5717,8 +5717,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         }
       ]
     },
@@ -5843,22 +5843,22 @@
       ]
     },
     {
-      "name": "Fire Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1187.gif",
+      "image": "https://ahootdigital.com/citizen/1187.png",
       "id": 1187,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Fire"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
@@ -5869,28 +5869,28 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         }
       ]
     },
     {
-      "name": "Fire Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1188.gif",
+      "image": "https://ahootdigital.com/citizen/1188.png",
       "id": 1188,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Fire"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fire"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
@@ -5901,8 +5901,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         }
       ]
     },
@@ -6123,22 +6123,22 @@
       ]
     },
     {
-      "name": "Green Neutral Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1196.gif",
+      "image": "https://ahootdigital.com/citizen/1196.png",
       "id": 1196,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": " Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Green"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
@@ -6151,22 +6151,22 @@
       ]
     },
     {
-      "name": "Green Neutral Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1197.gif",
+      "image": "https://ahootdigital.com/citizen/1197.png",
       "id": 1197,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Green"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
@@ -6177,8 +6177,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         }
       ]
     },
@@ -6405,8 +6405,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -6905,8 +6905,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -6985,8 +6985,8 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -7313,8 +7313,8 @@
           "value": "Prime"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -7413,8 +7413,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -8133,8 +8133,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -8473,8 +8473,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -8533,8 +8533,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -8889,8 +8889,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -9513,8 +9513,8 @@
           "value": "Artemis"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -9737,8 +9737,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -10041,8 +10041,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -10517,8 +10517,8 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -10697,8 +10697,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -11305,8 +11305,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -12449,8 +12449,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -13001,8 +13001,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -13089,8 +13089,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -13457,8 +13457,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -13521,8 +13521,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -13637,8 +13637,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -14621,8 +14621,8 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -15033,8 +15033,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -15065,8 +15065,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -15229,8 +15229,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -15585,8 +15585,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -15637,8 +15637,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -16245,8 +16245,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -16521,8 +16521,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -16825,8 +16825,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -17061,8 +17061,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -17481,8 +17481,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -17713,8 +17713,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -17957,8 +17957,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -18013,8 +18013,8 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -18081,8 +18081,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -18429,8 +18429,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -18681,8 +18681,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -19129,8 +19129,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -19193,8 +19193,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -19401,8 +19401,8 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -19613,8 +19613,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -19789,8 +19789,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -19909,8 +19909,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -20109,8 +20109,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -20385,8 +20385,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -21221,8 +21221,8 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -21489,8 +21489,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -21521,8 +21521,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -21705,8 +21705,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -22301,8 +22301,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -22893,8 +22893,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -23073,8 +23073,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -23165,8 +23165,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -23357,8 +23357,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -23601,8 +23601,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -23993,8 +23993,8 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -24257,8 +24257,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -24445,8 +24445,8 @@
           "value": "Smoot"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -24509,8 +24509,8 @@
           "value": 1
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -24697,8 +24697,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -25089,8 +25089,8 @@
           "value": "Chaos"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -25397,8 +25397,8 @@
           "value": "Vixel"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -26117,8 +26117,8 @@
           "value": "Astra"
         },
         {
-          "trait_type": "Boost II",
-          "value": "Speed"
+          "trait_type": "Speed",
+          "value": 1
         },
         {
           "trait_type": "Reward Rate",
@@ -31109,18 +31109,18 @@
       ]
     },
     {
-      "name": "Neutral Smoot",
-      "description": "Smoot - The Resilient Rabbit",
-      "image": "https://ahootdigital.com/citizen/347.gif",
+      "name": "Dragon Astra",
+      "description": "Astra",
+      "image": "https://ahootdigital.com/citizen/347.png",
       "id": 347,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Stamina",
@@ -31128,7 +31128,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Smoot"
+          "value": "Astra"
         }
       ]
     },
@@ -33957,18 +33957,18 @@
       ]
     },
     {
-      "name": "Neutral Smoot",
-      "description": "Smoot - The Resilient Rabbit",
-      "image": "https://ahootdigital.com/citizen/448.gif",
+      "name": "Dragon Astra",
+      "description": "Astra",
+      "image": "https://ahootdigital.com/citizen/448.png",
       "id": 448,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Defense",
@@ -33980,7 +33980,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Smoot"
+          "value": "Astra"
         }
       ]
     },
@@ -34089,21 +34089,21 @@
       ]
     },
     {
-      "name": "Electric Vixel",
-      "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
-      "image": "https://ahootdigital.com/citizen/452.gif",
+      "name": "Dragon Astra",
+      "description": "Astra",
+      "image": "https://ahootdigital.com/citizen/452.png",
       "id": 452,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Electric"
+          "value": "Dragon"
         },
         {
-          "trait_type": "Accuracy",
+          "trait_type": "Attack",
           "value": 1
         },
         {
@@ -34112,7 +34112,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Astra"
         }
       ]
     },
@@ -39537,22 +39537,22 @@
       ]
     },
     {
-      "name": "Neutral Vixel",
-      "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
-      "image": "https://ahootdigital.com/citizen/645.gif",
+      "name": "Ice Chaos",
+      "description": "Chaos",
+      "image": "https://ahootdigital.com/citizen/645.png",
       "id": 645,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Chaos"
         }
       ]
     },
@@ -40997,18 +40997,18 @@
       ]
     },
     {
-      "name": "Fairy Smoot",
-      "description": "Smoot - The Resilient Rabbit",
-      "image": "https://ahootdigital.com/citizen/697.gif",
+      "name": "Ice Chaos",
+      "description": "Chaos",
+      "image": "https://ahootdigital.com/citizen/697.png",
       "id": 697,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fairy"
+          "value": "Ice"
         },
         {
           "trait_type": "Health",
@@ -41016,7 +41016,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Smoot"
+          "value": "Chaos"
         }
       ]
     },
@@ -53297,7 +53297,7 @@
     },
     {
       "name": "Ami Sequencer",
-      "description": "Let's you change things up a bit.",
+      "description": "Let's you change the species of an Ami.",
       "image": "https://ahootdigital.com/and/sequencer.gif",
       "id": "7",
       "attributes": [
@@ -53439,7 +53439,7 @@
     },
     {
       "name": "Avatar Sequencer",
-      "description": "Let's you change things up a bit.",
+      "description": "Let's you deconstruct a pixel SGP and turn it into Avatar parts",
       "image": "https://ahootdigital.com/and/sequencer.gif",
       "id": "8",
       "attributes": [
