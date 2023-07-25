@@ -5907,26 +5907,26 @@
       ]
     },
     {
-      "name": "Magic Astra",
-      "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1189.gif",
+      "name": "Ice Chaos",
+      "description": "Chaos",
+      "image": "https://ahootdigital.com/citizen/1189.png",
       "id": 1189,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Magic"
+          "value": "Ice"
         },
         {
           "trait_type": "Aspect",
-          "value": "Magic"
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Astra"
+          "value": "Chaos"
         },
         {
           "trait_type": "Health",
@@ -5959,26 +5959,26 @@
       ]
     },
     {
-      "name": "Cloud Fairy Astra",
-      "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1190.gif",
+      "name": "Ice Chaos",
+      "description": "Chaos",
+      "image": "https://ahootdigital.com/citizen/1190.png",
       "id": 1190,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Cloud"
+          "value": "Ice"
         },
         {
           "trait_type": "Aspect",
-          "value": "Fairy"
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Astra"
+          "value": "Chaos"
         },
         {
           "trait_type": "Health",
@@ -5987,22 +5987,22 @@
       ]
     },
     {
-      "name": "Leaf Earth Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1191.gif",
+      "image": "https://ahootdigital.com/citizen/1191.png",
       "id": 1191,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Leaf"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Earth"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
@@ -6011,50 +6011,50 @@
       ]
     },
     {
-      "name": "Pale Blue Neutral Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1192.gif",
+      "image": "https://ahootdigital.com/citizen/1192.png",
       "id": 1192,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Pale Blue"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
           "value": "Astra"
         },
         {
-          "trait_type": "Boost I",
-          "value": "Critical"
+          "trait_type": "Critical",
+          "value": 1
         }
       ]
     },
     {
-      "name": "Green Neutral Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1193.gif",
+      "image": "https://ahootdigital.com/citizen/1193.png",
       "id": 1193,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Green"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
@@ -6067,22 +6067,22 @@
       ]
     },
     {
-      "name": "Blue Neutral Astra",
+      "name": "Dragon Astra",
       "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1194.gif",
+      "image": "https://ahootdigital.com/citizen/1194.png",
       "id": 1194,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Blue"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
@@ -6183,26 +6183,26 @@
       ]
     },
     {
-      "name": "Green Neutral Astra",
-      "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1198.gif",
+      "name": "Ice Chaos",
+      "description": "Ice Chaos",
+      "image": "https://ahootdigital.com/citizen/1198.png",
       "id": 1198,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Green"
+          "value": "Ice"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Astra"
+          "value": "Chaos"
         },
         {
           "trait_type": "Stamina",
@@ -6215,26 +6215,26 @@
       ]
     },
     {
-      "name": "Stone Astra",
-      "description": "Astra - The Radiant Star of Destiny",
-      "image": "https://ahootdigital.com/citizen/1199.gif",
+      "name": "Ice Chaos",
+      "description": "Ice Chaos",
+      "image": "https://ahootdigital.com/citizen/1199.png",
       "id": 1199,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Coat",
-          "value": "Stone"
+          "value": "Ice"
         },
         {
           "trait_type": "Aspect",
-          "value": "Stone"
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Astra"
+          "value": "Chaos"
         },
         {
           "trait_type": "Health",
@@ -45669,18 +45669,18 @@
       ]
     },
     {
-      "name": "Neutral Vixel",
+      "name": "Ice Chaos",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
-      "image": "https://ahootdigital.com/citizen/862.gif",
+      "image": "https://ahootdigital.com/citizen/862.png",
       "id": 862,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Health",
@@ -45688,7 +45688,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Chaos"
         }
       ]
     },
@@ -46181,18 +46181,18 @@
       ]
     },
     {
-      "name": "Neutral Vixel",
+      "name": "Ice Chaos",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
-      "image": "https://ahootdigital.com/citizen/880.gif",
+      "image": "https://ahootdigital.com/citizen/880.png",
       "id": 880,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Intelligence",
@@ -46200,7 +46200,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Chaos"
         }
       ]
     },
@@ -46305,18 +46305,18 @@
       ]
     },
     {
-      "name": "Neutral Vixel",
+      "name": "Ice Chaos",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
-      "image": "https://ahootdigital.com/citizen/885.gif",
+      "image": "https://ahootdigital.com/citizen/885.png",
       "id": 885,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Health",
@@ -46324,7 +46324,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Chaos"
         }
       ]
     },
@@ -46353,22 +46353,22 @@
       ]
     },
     {
-      "name": "Neutral Prime",
+      "name": "Ice Chaos",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
-      "image": "https://ahootdigital.com/citizen/887.gif",
+      "image": "https://ahootdigital.com/citizen/887.png",
       "id": 887,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Prime"
+          "value": "Chaos"
         }
       ]
     },
