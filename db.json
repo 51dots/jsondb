@@ -6290,7 +6290,7 @@
       "name": "Andromaverse Elite Identity #1200",
       "description": "Identity Collection of the Andromaverse Universe. Try To Remember, Forget",
       "image": "https://ahootdigital.com/citizen/1200.png",
-      "id": "1200",
+      "id": 1200,
       "attributes": [
         {
           "trait_type": "Area",
@@ -6311,10 +6311,6 @@
         {
           "trait_type": "Health",
           "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
-          "value": 1
         }
       ]
     },
@@ -6322,7 +6318,7 @@
       "name": "Andromaverse Elite Identity #1201",
       "description": "Identity Collection of the Andromaverse Universe. Try To Remember, Forget",
       "image": "https://ahootdigital.com/citizen/1201.png",
-      "id": "1201",
+      "id": 1201,
       "attributes": [
         {
           "trait_type": "Area",
@@ -6338,10 +6334,6 @@
         },
         {
           "trait_type": "Health",
-          "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
           "value": 1
         }
       ]
@@ -6370,10 +6362,6 @@
         },
         {
           "trait_type": "Health",
-          "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
           "value": 1
         }
       ]
@@ -6407,10 +6395,6 @@
         {
           "trait_type": "Speed",
           "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
-          "value": 1
         }
       ]
     },
@@ -6442,10 +6426,6 @@
         },
         {
           "trait_type": "Health",
-          "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
           "value": 1
         }
       ]
@@ -6479,10 +6459,6 @@
         {
           "trait_type": "Health",
           "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
-          "value": 1
         }
       ]
     },
@@ -6510,10 +6486,6 @@
         },
         {
           "trait_type": "Health",
-          "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
           "value": 1
         }
       ]
@@ -6547,10 +6519,6 @@
         {
           "trait_type": "Health",
           "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
-          "value": 1
         }
       ]
     },
@@ -6575,10 +6543,6 @@
         {
           "trait_type": "Species",
           "value": "Chaos"
-        },
-        {
-          "trait_type": "Reward Rate",
-          "value": 1
         }
       ]
     },
@@ -6606,10 +6570,6 @@
         },
         {
           "trait_type": "Health",
-          "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
           "value": 1
         }
       ]
@@ -6663,41 +6623,29 @@
         {
           "trait_type": "Health",
           "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
-          "value": 1
         }
       ]
     },
     {
-      "name": "Andromaverse Elite Identity #1211",
-      "description": "Identity Collection of the Andromaverse Universe. Try To Remember, Forget",
+      "name": "Dragon Astra",
+      "description": "Dragon Astra",
       "image": "https://ahootdigital.com/citizen/1211.png",
       "id": "1211",
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Void"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
-          "value": "Chaos"
-        },
-        {
-          "trait_type": "Defense",
-          "value": 1
+          "value": "Astra"
         },
         {
           "trait_type": "Health",
-          "value": 1
-        },
-        {
-          "trait_type": "Reward Rate",
           "value": 1
         }
       ]
