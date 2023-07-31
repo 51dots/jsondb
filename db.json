@@ -44737,18 +44737,27 @@
       ]
     },
     {
-      "name": "Earth Smoot",
-      "description": "Smoot - The Resilient Rabbit",
+      "name": "Citizen #830",
+      "description": "Neptunian Alysian Citizen #830 and Earth Smoot",
       "image": "https://ahootdigital.com/citizen/830.png",
+      "avatar": "SGP 1146",
       "id": 830,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Space"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Neptunian"
         },
         {
           "trait_type": "Aspect",
           "value": "Earth"
+        },
+        {
+          "trait_type": "Species",
+          "value": "Smoot"
         },
         {
           "trait_type": "Critical",
@@ -44757,10 +44766,6 @@
         {
           "trait_type": "Health",
           "value": 1
-        },
-        {
-          "trait_type": "Species",
-          "value": "Smoot"
         }
       ]
     },
