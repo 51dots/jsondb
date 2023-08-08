@@ -1243,30 +1243,26 @@
       ]
     },
     {
-      "name": "Pixel Smoot",
-      "description": "Smoot - The Resilient Rabbit",
+      "name": "Dragon Astra",
+      "description": "Dragon Astra",
       "image": "https://ahootdigital.com/citizen/1038.png",
       "id": 1038,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Green"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Species",
-          "value": "Smoot"
+          "value": "Astra"
         },
         {
           "trait_type": "Coat",
-          "value": "Bubblegum"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Pixel"
-        },
-        {
-          "trait_type": "Accessory",
-          "value": "Skull Mask"
+          "value": "Dragon"
         }
       ]
     },
@@ -1631,30 +1627,26 @@
       ]
     },
     {
-      "name": "Pixel Andy",
+      "name": "Ice Chao",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
       "image": "https://ahootdigital.com/citizen/1050.png",
       "id": 1050,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Night Fly"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Species",
-          "value": "Andy"
+          "value": "Chaos"
         },
         {
           "trait_type": "Coat",
-          "value": "Cane"
+          "value": "Ice"
         },
         {
           "trait_type": "Aspect",
-          "value": "Pixel"
-        },
-        {
-          "trait_type": "Accessory",
-          "value": "Black Smol Glasses"
+          "value": "Ice"
         }
       ]
     },
@@ -3655,30 +3647,26 @@
       ]
     },
     {
-      "name": "Pixel Smoot",
-      "description": "Smoot - The Resilient Rabbit",
+      "name": "Dragon Astra",
+      "description": "Dragon Astra",
       "image": "https://ahootdigital.com/citizen/1116.png",
       "id": 1116,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Chromatic"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Species",
-          "value": "Smoot"
+          "value": "Astra"
         },
         {
           "trait_type": "Coat",
-          "value": "Ice"
+          "value": "Dragon"
         },
         {
           "trait_type": "Aspect",
-          "value": "Pixel"
-        },
-        {
-          "trait_type": "Accessory",
-          "value": "Purple Pink Visor"
+          "value": "Dragon"
         }
       ]
     },
@@ -4187,30 +4175,26 @@
       ]
     },
     {
-      "name": "Pixel Andy",
+      "name": "Ice Chaos",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
       "image": "https://ahootdigital.com/citizen/1133.png",
       "id": 1133,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Pink"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Species",
-          "value": "Andy"
+          "value": "Chaos"
         },
         {
           "trait_type": "Coat",
-          "value": "Cherry"
+          "value": "Ice"
         },
         {
           "trait_type": "Aspect",
-          "value": "Pixel"
-        },
-        {
-          "trait_type": "Accessory",
-          "value": "Skull Mask"
+          "value": "Ice"
         }
       ]
     },
@@ -28164,22 +28148,22 @@
       ]
     },
     {
-      "name": "Water Vixel",
+      "name": "Dragon Astra",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
       "image": "https://ahootdigital.com/citizen/244.png",
       "id": 244,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Water"
+          "value": "Dragon"
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Astra"
         }
       ]
     },
@@ -28576,18 +28560,18 @@
       ]
     },
     {
-      "name": "Neutral Vixel",
+      "name": "Dragon Astra",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
       "image": "https://ahootdigital.com/citizen/26.png",
       "id": 26,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Dragon"
         },
         {
           "trait_type": "Health",
@@ -28595,7 +28579,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Astra"
         }
       ]
     },
@@ -32685,9 +32669,10 @@
       ]
     },
     {
-      "name": "Light Vixel",
-      "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
+      "name": "Citizen Milonga",
+      "description": "Citizen Milonga with Light Vixel",
       "image": "https://ahootdigital.com/citizen/404.png",
+      "avatar": "SGP 678",
       "id": 404,
       "attributes": [
         {
@@ -36229,22 +36214,22 @@
       ]
     },
     {
-      "name": "Neutral Artemis",
-      "description": "Artemis - The Whimsical Reptiliant",
+      "name": "Ice Chaos",
+      "description": "Ice Chaos",
       "image": "https://ahootdigital.com/citizen/53.png",
       "id": 53,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Species",
-          "value": "Artemis"
+          "value": "Chaos"
         }
       ]
     },
@@ -41773,18 +41758,31 @@
       ]
     },
     {
-      "name": "Fire Vixel",
-      "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
+      "name": "Citizen 726",
+      "description": "Yakashain Androman Citizen #726 and Fire Candle Vixel",
       "image": "https://ahootdigital.com/citizen/726.png",
+      "avatar": "SGP 4076",
       "id": 726,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Space"
+        },
+        {
+          "trait_type": "Lineage",
+          "value": "Yakashian"
         },
         {
           "trait_type": "Aspect",
           "value": "Fire"
+        },
+        {
+          "trait_type": "Coat",
+          "value": "Candle"
+        },
+        {
+          "trait_type": "Species",
+          "value": "Vixel"
         },
         {
           "trait_type": "Defense",
@@ -41793,10 +41791,6 @@
         {
           "trait_type": "Speed",
           "value": 1
-        },
-        {
-          "trait_type": "Species",
-          "value": "Vixel"
         }
       ]
     },
@@ -44465,18 +44459,18 @@
       ]
     },
     {
-      "name": "Neutral Vixel",
+      "name": "Ice Chaos",
       "description": "Ami are collectible battle creatures from the Andromaverse Multiverse",
       "image": "https://ahootdigital.com/citizen/820.png",
       "id": 820,
       "attributes": [
         {
           "trait_type": "Area",
-          "value": "Eden Nest"
+          "value": "Base Camp"
         },
         {
           "trait_type": "Aspect",
-          "value": "Neutral"
+          "value": "Ice"
         },
         {
           "trait_type": "Attack",
@@ -44484,7 +44478,7 @@
         },
         {
           "trait_type": "Species",
-          "value": "Vixel"
+          "value": "Chaos"
         }
       ]
     },
@@ -44738,7 +44732,7 @@
     },
     {
       "name": "Citizen #830",
-      "description": "Neptunian Alysian Citizen #830 and Earth Smoot",
+      "description": "Neptunian Androman Citizen #830 and Earth Smoot",
       "image": "https://ahootdigital.com/citizen/830.png",
       "avatar": "SGP 1146",
       "id": 830,
