@@ -41182,6 +41182,7 @@
       "description": "Smoot - The Resilient Rabbit",
       "image": "https://ahootdigital.com/citizen/705.png",
       "id": 705,
+      "avatar": "SGP 6815",
       "attributes": [
         {
           "trait_type": "Area",
@@ -64857,15 +64858,34 @@
       ]
     },
     {
-      "name": "Coming Soon",
-      "description": "The Native Inhabitants of Alysia",
-      "image": "https://ahootdigital.com/alysians/soon.png",
-      "edition": "Coming Soon",
-      "id": "1500",
+      "name": "Citizen #1500",
+      "description": "Androman Federation",
+      "image": "https://ahootdigital.com/citizen/1500.png",
+      "id": 1500,
       "attributes": [
         {
-          "trait_type": "Coming Soon",
-          "value": "True"
+          "trait_type": "Lineage",
+          "value": "Gaianan"
+        },
+        {
+          "trait_type": "FaceDetail",
+          "value": "blush"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smaller"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Magenta"
+        },
+        {
+          "trait_type": "Tops",
+          "value": "teal_stripe"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "bruennetemidfrontbangcut_hair"
         }
       ]
     },
@@ -64874,7 +64894,7 @@
       "description": "The Native Inhabitants of Alysia",
       "image": "https://ahootdigital.com/alysians/soon.png",
       "edition": "Coming Soon",
-      "id": "1501",
+      "id": 1501,
       "attributes": [
         {
           "trait_type": "Coming Soon",
